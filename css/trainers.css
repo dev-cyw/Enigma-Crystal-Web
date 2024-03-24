@@ -1,0 +1,51 @@
+html {
+    background-color: #18181b;
+    color: #eeeeee;
+    font-family: 'Lexend', Segoe UI;
+    text-align: center;
+}
+
+h1 {
+    font-size: 72px;
+    padding: 0px;
+    margin: 2px;
+}
+
+.container {
+    width: 100%;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+}
+.container div{
+    width: 12%;
+    float: left;
+    text-align: center;
+    border: 2px solid #2c2c2c;
+}
+
+.container img{
+    width: 100%;
+    height: auto;
+    image-rendering: pixelated;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+
+li{
+    display: inline-block;
+}
+
+a{
+    display: block;
+    padding: 8px;
+    background-color: #393941;
+    color: white;
+    text-decoration: none;
+}
