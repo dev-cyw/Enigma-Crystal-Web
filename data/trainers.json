@@ -1,0 +1,40 @@
+{
+    "Trainers": [
+        {
+            "Name": "- Chikorita",
+            "Class": "Rival",
+            "Pokemon": [
+                {
+                    "Name": "Chikorita",
+                    "Level": 8,
+                    "Ability": "Overgrow",
+                    "Item": "-",
+                    "Moves": [
+                        "Razor Leaf",
+                        "Growl",
+                        "Tackle",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "- Cyndaquil",
+            "Class": "Rival",
+            "Pokemon": [
+                {
+                    "Name": "Cyndaquil",
+                    "Level": 8,
+                    "Ability": "Blaze",
+                    "Item": "-",
+                    "Moves": [
+                        "Ember",
+                        "Leer",
+                        "Tackle",
+                        "-"
+                    ]
+                }
+            ]
+        }
+    ]
+}
