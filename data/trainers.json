@@ -1,6 +1,7 @@
 {
     "Trainers": [
         {
+            "Area": "Cherrygrove",
             "Name": "- Chikorita",
             "Class": "Rival",
             "Pokemon": [
@@ -19,6 +20,7 @@
             ]
         },
         {
+            "Area": "",
             "Name": "- Cyndaquil",
             "Class": "Rival",
             "Pokemon": [
@@ -31,6 +33,75 @@
                         "Ember",
                         "Leer",
                         "Tackle",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "- Totodile",
+            "Class": "Rival",
+            "Pokemon":[
+                {
+                    "Name": "Totodile",
+                    "Level": 8,
+                    "Ability": "Torrent",
+                    "Item": "-",
+                    "Moves": [
+                        "Leer",
+                        "Scratch",
+                        "Water Gun",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "Route 30",
+            "Name": "Joey",
+            "Class": "Youngster",
+            "Pokemon":[
+                {
+                    "Name": "Rattata",
+                    "Level": 9,
+                    "Ability": "Guts",
+                    "Item": "Focus Band",
+                    "Moves":[
+                        "Quick Attack",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Mikey",
+            "Class": "Youngster",
+            "Pokemon": [
+                {
+                    "Name": "Sandshrew",
+                    "Level": 9,
+                    "Ability": "Sand Veil",
+                    "Item": "-",
+                    "Moves": [
+                        "Scratch",
+                        "Poison Sting",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Pidgey",
+                    "Level": 10,
+                    "Ability": "Keen Eye",
+                    "Item": "-",
+                    "Moves": [
+                        "Gust",
+                        "Quick Attack",
+                        "-",
                         "-"
                     ]
                 }

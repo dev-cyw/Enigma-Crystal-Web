@@ -7,6 +7,7 @@ fetch('../data/trainers.json')
     })
     .then(data => {
         const container = document.querySelector('.container');
+        const body = document.querySelector('body');  // Selecting the <body> tag
 
         data.Trainers.forEach(trainer => {
             const trainerDiv = document.createElement('div');
@@ -42,6 +43,13 @@ fetch('../data/trainers.json')
 
             trainerDiv.appendChild(pokemonDiv);
             container.appendChild(trainerDiv);
+            
+            // Add area to body before the trainer that has the Area
+            if (trainer.Area !== "") {
+                const areaHeader = document.createElement('h3');
+                areaHeader.textContent = trainer.Area;
+                container.insertBefore(areaHeader, trainerDiv);
+            }
         });
     })
     .catch(error => {
