@@ -86,8 +86,15 @@ h1 {
     height: 160px;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Center the list items */
+}
+
 li {
-    display: inline-block;
+    display: inline-block; /* Display list items inline */
 }
 
 a {
