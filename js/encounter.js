@@ -55,11 +55,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     emptySlotDiv.appendChild(emptyImg);
 
                     const emptyLvl = document.createElement('p');
-                    emptyLvl.innerText = `.`;
+                    emptyLvl.innerText = `-`;
                     emptyLvl.style.color = '#18181b';  // Make text color same as background to make it invisible
 
                     const emptyRate = document.createElement('p');
-                    emptyRate.innerText = `.`;
+                    emptyRate.innerText = `-`;
                     emptyRate.style.color = '#18181b';  // Make text color same as background to make it invisible
 
                     emptySlotDiv.appendChild(emptyLvl);

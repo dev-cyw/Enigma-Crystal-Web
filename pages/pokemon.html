@@ -1,9 +1,45 @@
 <!DOCTYPE html>
-<html lang="en-GB">
+<html lang="en">
 <head>
     <title>Enigma Crystal Pokemon</title>
-    <link rel="icon" type="image/x-icon" href="../images/suicune.png">
-    <link rel="stylesheet" href="../css/pokemon.css">
     <meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="../images/suicune.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/pokemon.css">
 </head>
+<body>
+    <ul> <!-- Title Bar -->
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="trainers.html">Trainers</a></li>
+        <li><a href="pokemon.html">Pokemon</a></li>
+        <li><a href="encounters.html">Encounters</a></li>
+    </ul>
+    <h1><u>Pokemon</u></h1>
+    <input type="text" id="searchInput" placeholder="Search by name" onkeyup="searchTable()">
+    <table id="pokemonTable">
+        <thead>
+            <tr>
+                <th>Image</th>
+                <th>Name</th>
+                <th>Type 1</th>
+                <th>Type 2</th>
+                <th>HP</th>
+                <th>Atk</th>
+                <th>Def</th>
+                <th>SpAtk</th>
+                <th>SpDef</th>
+                <th>Spe</th>
+                <th>Total</th>
+                <th>Ability 1</th>
+                <th>Ability 2</th>
+                <th>Evo Method</th>
+                <th>Evo Requirement</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    
+    <script src="../js/pokemon.js"></script>
+</body>
 </html>
