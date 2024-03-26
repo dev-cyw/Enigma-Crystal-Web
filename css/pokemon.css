@@ -42,10 +42,12 @@ th, td {
 }
 th {
     background-color: #393941;
+    position: sticky;
+    top: 0;
 }
 
 tr:hover {
-    background-color: #43454b;
+    background-color: #232329;
 }
 
 .stat-column {

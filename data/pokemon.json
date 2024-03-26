@@ -581,6 +581,64 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Rattata-A",
+            "Types": [
+                "Dark",
+                "Normal"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 30,
+                "Attack": 56,
+                "Defense": 35,
+                "Sp. Attack": 25,
+                "Sp. Defense": 35,
+                "Speed": 72
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Raticate-A",
+            "Types": [
+                "Dark",
+                "Normal"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 75,
+                "Attack": 71,
+                "Defense": 70,
+                "Sp. Attack": 40,
+                "Sp. Defense": 80,
+                "Speed": 77
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Spearow",
             "Types": [
                 "Normal",
@@ -755,6 +813,35 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Raichu-A",
+            "Types": [
+                "Electric",
+                "Psychic"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 60,
+                "Attack": 90,
+                "Defense": 55,
+                "Sp. Attack": 90,
+                "Sp. Defense": 80,
+                "Speed": 110
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Sandshrew",
             "Types": [
                 "Ground",
@@ -798,6 +885,64 @@
                 "Attack": 100,
                 "Defense": 110,
                 "Sp. Attack": 45,
+                "Sp. Defense": 55,
+                "Speed": 65
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Sandshrew-A",
+            "Types": [
+                "Ice",
+                "Steel"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 50,
+                "Attack": 75,
+                "Defense": 90,
+                "Sp. Attack": 10,
+                "Sp. Defense": 30,
+                "Speed": 40
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Sandslash-A",
+            "Types": [
+                "Ice",
+                "Steel"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 75,
+                "Attack": 100,
+                "Defense": 120,
+                "Sp. Attack": 25,
                 "Sp. Defense": 55,
                 "Speed": 65
             },
@@ -1090,6 +1235,64 @@
                 "Sp. Attack": 81,
                 "Sp. Defense": 100,
                 "Speed": 100
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Vulpix-A",
+            "Types": [
+                "Ice",
+                ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 38,
+                "Attack": 41,
+                "Defense": 40,
+                "Sp. Attack": 50,
+                "Sp. Defense": 65,
+                "Speed": 65
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Ninetales-A",
+            "Types": [
+                "Ice",
+                ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 73,
+                "Attack": 67,
+                "Defense": 75,
+                "Sp. Attack": 81,
+                "Sp. Defense": 100,
+                "Speed": 109
             },
             "Balancing": {
                 "HP": 0,
@@ -1480,6 +1683,64 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Diglett-A",
+            "Types": [
+                "Ground",
+                "Steel"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 10,
+                "Attack": 55,
+                "Defense": 30,
+                "Sp. Attack": 35,
+                "Sp. Defense": 45,
+                "Speed": 90
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Dugtrio-A",
+            "Types": [
+                "Ground",
+                "Steel"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 35,
+                "Attack": 100,
+                "Defense": 60,
+                "Sp. Attack": 50,
+                "Sp. Defense": 70,
+                "Speed": 110
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Meowth",
             "Types": [
                 "Normal",
@@ -1525,6 +1786,93 @@
                 "Sp. Attack": 65,
                 "Sp. Defense": 65,
                 "Speed": 115
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Meowth-A",
+            "Types": [
+                "Dark",
+                ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 40,
+                "Attack": 35,
+                "Defense": 35,
+                "Sp. Attack": 50,
+                "Sp. Defense": 40,
+                "Speed": 90
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Persian-A",
+            "Types": [
+                "Dark",
+                ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 65,
+                "Attack": 60,
+                "Defense": 60,
+                "Sp. Attack": 75,
+                "Sp. Defense": 65,
+                "Speed": 115
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Meowth-G",
+            "Types": [
+                "Steel",
+                ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 50,
+                "Attack": 65,
+                "Defense": 55,
+                "Sp. Attack": 40,
+                "Sp. Defense": 40,
+                "Speed": 40
             },
             "Balancing": {
                 "HP": 0,
@@ -1699,6 +2047,64 @@
                 "Sp. Attack": 100,
                 "Sp. Defense": 80,
                 "Speed": 95
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Growlithe-H",
+            "Types": [
+                "Fire",
+                "Rock"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 60,
+                "Attack": 75,
+                "Defense": 45,
+                "Sp. Attack": 65,
+                "Sp. Defense": 50,
+                "Speed": 55
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Arcanine-H",
+            "Types": [
+                "Fire",
+                "Rock"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 95,
+                "Attack": 115,
+                "Defense": 80,
+                "Sp. Attack": 95,
+                "Sp. Defense": 80,
+                "Speed": 90
             },
             "Balancing": {
                 "HP": 0,
@@ -2205,6 +2611,93 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Geodude-A",
+            "Types": [
+                "Rock",
+                "Electric"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 40,
+                "Attack": 80,
+                "Defense": 100,
+                "Sp. Attack": 30,
+                "Sp. Defense": 30,
+                "Speed": 20
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Graveler-A",
+            "Types": [
+                "Rock",
+                "Electric"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 55,
+                "Attack": 95,
+                "Defense": 115,
+                "Sp. Attack": 45,
+                "Sp. Defense": 45,
+                "Speed": 35
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Golem-A",
+            "Types": [
+                "Rock",
+                "Electric"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 80,
+                "Attack": 120,
+                "Defense": 130,
+                "Sp. Attack": 55,
+                "Sp. Defense": 65,
+                "Speed": 45
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Ponyta",
             "Types": [
                 "Fire",
@@ -2238,6 +2731,64 @@
             "Types": [
                 "Fire",
                 ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 65,
+                "Attack": 100,
+                "Defense": 70,
+                "Sp. Attack": 80,
+                "Sp. Defense": 80,
+                "Speed": 105
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Ponyta-G",
+            "Types": [
+                "Psychic",
+                ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 50,
+                "Attack": 85,
+                "Defense": 55,
+                "Sp. Attack": 65,
+                "Sp. Defense": 65,
+                "Speed": 90
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Rapidash-G",
+            "Types": [
+                "Psychic",
+                "Fairy"
             ],
             "Abilities": [
                 "-",
@@ -2307,6 +2858,64 @@
                 "Defense": 110,
                 "Sp. Attack": 100,
                 "Sp. Defense": 80,
+                "Speed": 30
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Slowpoke-G",
+            "Types": [
+                "Psychic",
+                "-"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 90,
+                "Attack": 65,
+                "Defense": 65,
+                "Sp. Attack": 40,
+                "Sp. Defense": 40,
+                "Speed": 15
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Slowbro-G",
+            "Types": [
+                "Poison",
+                "Psychic"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 95,
+                "Attack": 100,
+                "Defense": 95,
+                "Sp. Attack": 100,
+                "Sp. Defense": 70,
                 "Speed": 30
             },
             "Balancing": {
@@ -2395,6 +3004,35 @@
                 "Sp. Attack": 58,
                 "Sp. Defense": 62,
                 "Speed": 60
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Farfetch'd-G",
+            "Types": [
+                "Fighting",
+                "-"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 52,
+                "Attack": 95,
+                "Defense": 55,
+                "Sp. Attack": 58,
+                "Sp. Defense": 62,
+                "Speed": 65
             },
             "Balancing": {
                 "HP": 0,
@@ -2557,6 +3195,64 @@
             "Types": [
                 "Poison",
                 ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 105,
+                "Attack": 105,
+                "Defense": 75,
+                "Sp. Attack": 65,
+                "Sp. Defense": 100,
+                "Speed": 50
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Grimer-A",
+            "Types": [
+                "Poison",
+                "Dark"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 80,
+                "Attack": 80,
+                "Defense": 50,
+                "Sp. Attack": 40,
+                "Sp. Defense": 50,
+                "Speed": 25
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Muk-A",
+            "Types": [
+                "Poison",
+                "Dark"
             ],
             "Abilities": [
                 "-",
@@ -2930,6 +3626,64 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Voltorb-H",
+            "Types": [
+                "Electric",
+                "Grass"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 40,
+                "Attack": 30,
+                "Defense": 50,
+                "Sp. Attack": 55,
+                "Sp. Defense": 55,
+                "Speed": 100
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Electrode-H",
+            "Types": [
+                "Electric",
+                "Grass"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 60,
+                "Attack": 50,
+                "Defense": 70,
+                "Sp. Attack": 80,
+                "Sp. Defense": 80,
+                "Speed": 150
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Exeggcute",
             "Types": [
                 "Grass",
@@ -2988,6 +3742,35 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Exeggutor-A",
+            "Types": [
+                "Grass",
+                "Dragon"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 95,
+                "Attack": 105,
+                "Defense": 85,
+                "Sp. Attack": 125,
+                "Sp. Defense": 75,
+                "Speed": 45
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Cubone",
             "Types": [
                 "Ground",
@@ -3021,6 +3804,35 @@
             "Types": [
                 "Ground",
                 ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 60,
+                "Attack": 80,
+                "Defense": 110,
+                "Sp. Attack": 50,
+                "Sp. Defense": 80,
+                "Speed": 45
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Marowak-A",
+            "Types": [
+                "Fire",
+                "Ghost"
             ],
             "Abilities": [
                 "-",
@@ -3163,6 +3975,35 @@
         },
         {
             "Name": "Weezing",
+            "Types": [
+                "Poison",
+                ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 65,
+                "Attack": 90,
+                "Defense": 120,
+                "Sp. Attack": 85,
+                "Sp. Defense": 70,
+                "Speed": 60
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Weezing-G",
             "Types": [
                 "Poison",
                 ""
@@ -3539,6 +4380,35 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Mr. Mime-G",
+            "Types": [
+                "Ice",
+                "Psychic"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 50,
+                "Attack": 65,
+                "Defense": 65,
+                "Sp. Attack": 90,
+                "Sp. Defense": 90,
+                "Speed": 100
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Scyther",
             "Types": [
                 "Bug",
@@ -3700,6 +4570,93 @@
                 "Sp. Attack": 40,
                 "Sp. Defense": 70,
                 "Speed": 110
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Tauros-Combat",
+            "Types": [
+                "Fighting",
+                ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 75,
+                "Attack": 110,
+                "Defense": 105,
+                "Sp. Attack": 30,
+                "Sp. Defense": 70,
+                "Speed": 100
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Tauros-Blaze",
+            "Types": [
+                "Fighting",
+                "Fire"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 75,
+                "Attack": 110,
+                "Defense": 105,
+                "Sp. Attack": 30,
+                "Sp. Defense": 70,
+                "Speed": 100
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Tauros-Aqua",
+            "Types": [
+                "Fighting",
+                "Water"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 75,
+                "Attack": 110,
+                "Defense": 105,
+                "Sp. Attack": 30,
+                "Sp. Defense": 70,
+                "Speed": 100
             },
             "Balancing": {
                 "HP": 0,
@@ -4177,6 +5134,35 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Articuno-G",
+            "Types": [
+                "Ice",
+                "Flying"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 90,
+                "Attack": 85,
+                "Defense": 85,
+                "Sp. Attack": 125,
+                "Sp. Defense": 100,
+                "Speed": 95
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Zapdos",
             "Types": [
                 "Electric",
@@ -4191,6 +5177,35 @@
                 "Attack": 90,
                 "Defense": 85,
                 "Sp. Attack": 125,
+                "Sp. Defense": 90,
+                "Speed": 100
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Zapdos-G",
+            "Types": [
+                "Fighting",
+                "Flying"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 90,
+                "Attack": 125,
+                "Defense": 90,
+                "Sp. Attack": 85,
                 "Sp. Defense": 90,
                 "Speed": 100
             },
@@ -4221,6 +5236,35 @@
                 "Defense": 90,
                 "Sp. Attack": 125,
                 "Sp. Defense": 85,
+                "Speed": 90
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Moltres-G",
+            "Types": [
+                "Dark",
+                "Flying"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 90,
+                "Attack": 85,
+                "Defense": 90,
+                "Sp. Attack": 100,
+                "Sp. Defense": 125,
                 "Speed": 90
             },
             "Balancing": {
@@ -4541,6 +5585,35 @@
                 "Sp. Attack": 109,
                 "Sp. Defense": 85,
                 "Speed": 100
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Typhlosion-H",
+            "Types": [
+                "Fire",
+                "Ghost"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 73,
+                "Attack": 84,
+                "Defense": 78,
+                "Sp. Attack": 119,
+                "Sp. Defense": 85,
+                "Speed": 95
             },
             "Balancing": {
                 "HP": 0,
@@ -5656,6 +6729,35 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Wooper-P",
+            "Types": [
+                "Poison",
+                "Ground"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 55,
+                "Attack": 45,
+                "Defense": 45,
+                "Sp. Attack": 25,
+                "Sp. Defense": 25,
+                "Speed": 15
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Espeon",
             "Types": [
                 "Psychic",
@@ -5757,6 +6859,35 @@
                 "Attack": 75,
                 "Defense": 80,
                 "Sp. Attack": 100,
+                "Sp. Defense": 110,
+                "Speed": 30
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Slowking-G",
+            "Types": [
+                "Poison",
+                "Psychic"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 95,
+                "Attack": 65,
+                "Defense": 80,
+                "Sp. Attack": 110,
                 "Sp. Defense": 110,
                 "Speed": 30
             },
@@ -6120,6 +7251,35 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Qwilfish-H",
+            "Types": [
+                "Dark",
+                "Poison"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 65,
+                "Attack": 95,
+                "Defense": 85,
+                "Sp. Attack": 55,
+                "Sp. Defense": 55,
+                "Speed": 85
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Scizor",
             "Types": [
                 "Bug",
@@ -6211,6 +7371,35 @@
             "Types": [
                 "Dark",
                 "Ice"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 55,
+                "Attack": 95,
+                "Defense": 55,
+                "Sp. Attack": 35,
+                "Sp. Defense": 75,
+                "Speed": 115
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Sneasel-H",
+            "Types": [
+                "Fighting",
+                "Poison"
             ],
             "Abilities": [
                 "-",
@@ -6426,6 +7615,35 @@
                 "Sp. Attack": 65,
                 "Sp. Defense": 95,
                 "Speed": 35
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Corsola-G",
+            "Types": [
+                "Ghost",
+                ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 60,
+                "Attack": 55,
+                "Defense": 100,
+                "Sp. Attack": 65,
+                "Sp. Defense": 100,
+                "Speed": 30
             },
             "Balancing": {
                 "HP": 0,
@@ -7632,6 +8850,64 @@
             "Types": [
                 "Normal",
                 ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 78,
+                "Attack": 70,
+                "Defense": 61,
+                "Sp. Attack": 50,
+                "Sp. Defense": 61,
+                "Speed": 100
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Zigzagoon-G",
+            "Types": [
+                "Dark",
+                "Normal"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 38,
+                "Attack": 30,
+                "Defense": 41,
+                "Sp. Attack": 30,
+                "Sp. Defense": 41,
+                "Speed": 60
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Linoone-G",
+            "Types": [
+                "Dark",
+                "Normal"
             ],
             "Abilities": [
                 "-",
@@ -14588,6 +15864,35 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Samurott-H",
+            "Types": [
+                "Water",
+                "Dark"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 90,
+                "Attack": 108,
+                "Defense": 80,
+                "Sp. Attack": 100,
+                "Sp. Defense": 65,
+                "Speed": 85
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Patrat",
             "Types": [
                 "Normal",
@@ -15922,6 +17227,35 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Lilligant-H",
+            "Types": [
+                "Grass",
+                "Fighting"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 70,
+                "Attack": 105,
+                "Defense": 75,
+                "Sp. Attack": 50,
+                "Sp. Defense": 75,
+                "Speed": 105
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Basculin",
             "Types": [
                 "Water",
@@ -16083,6 +17417,122 @@
                 "Sp. Attack": 30,
                 "Sp. Defense": 55,
                 "Speed": 95
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Zen-Mode",
+            "Types": [
+                "Fire",
+                "Psychic"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 105,
+                "Attack": 30,
+                "Defense": 105,
+                "Sp. Attack": 140,
+                "Sp. Defense": 105,
+                "Speed": 55
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Darumaka-G",
+            "Types": [
+                "Ice",
+                ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 70,
+                "Attack": 90,
+                "Defense": 45,
+                "Sp. Attack": 15,
+                "Sp. Defense": 45,
+                "Speed": 50
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Darmanitan-G",
+            "Types": [
+                "Ice",
+                ""
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 105,
+                "Attack": 140,
+                "Defense": 55,
+                "Sp. Attack": 30,
+                "Sp. Defense": 55,
+                "Speed": 95
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Zen-Mode-G",
+            "Types": [
+                "Ice",
+                "Fire"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 105,
+                "Attack": 30,
+                "Defense": 105,
+                "Sp. Attack": 140,
+                "Sp. Defense": 105,
+                "Speed": 55
             },
             "Balancing": {
                 "HP": 0,
@@ -16328,6 +17778,35 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Yamask-G",
+            "Types": [
+                "Ground",
+                "Ghost"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 38,
+                "Attack": 55,
+                "Defense": 85,
+                "Sp. Attack": 30,
+                "Sp. Defense": 65,
+                "Speed": 30
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Tirtouga",
             "Types": [
                 "Water",
@@ -16547,6 +18026,64 @@
                 "Sp. Attack": 120,
                 "Sp. Defense": 60,
                 "Speed": 105
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Zorua-H",
+            "Types": [
+                "Normal",
+                "Ghost"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 35,
+                "Attack": 60,
+                "Defense": 40,
+                "Sp. Attack": 85,
+                "Sp. Defense": 40,
+                "Speed": 70
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Zoroark-H",
+            "Types": [
+                "Normal",
+                "Ghost"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 55,
+                "Attack": 100,
+                "Defense": 60,
+                "Sp. Attack": 125,
+                "Sp. Defense": 60,
+                "Speed": 110
             },
             "Balancing": {
                 "HP": 0,
@@ -17909,6 +19446,35 @@
                 "Defense": 84,
                 "Sp. Attack": 81,
                 "Sp. Defense": 99,
+                "Speed": 32
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Stunfisk-G",
+            "Types": [
+                "Ground",
+                "Steel"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 109,
+                "Attack": 81,
+                "Defense": 99,
+                "Sp. Attack": 66,
+                "Sp. Defense": 84,
                 "Speed": 32
             },
             "Balancing": {
@@ -20475,6 +22041,64 @@
             "Evolution Requirement": ""
         },
         {
+            "Name": "Sliggoo-H",
+            "Types": [
+                "Steel",
+                "Dragon"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 58,
+                "Attack": 75,
+                "Defense": 83,
+                "Sp. Attack": 83,
+                "Sp. Defense": 113,
+                "Speed": 40
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Goodra-H",
+            "Types": [
+                "Steel",
+                "Dragon"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 80,
+                "Attack": 100,
+                "Defense": 100,
+                "Sp. Attack": 110,
+                "Sp. Defense": 150,
+                "Speed": 60
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
             "Name": "Klefki",
             "Types": [
                 "Steel",
@@ -20665,6 +22289,35 @@
                 "Sp. Attack": 44,
                 "Sp. Defense": 46,
                 "Speed": 28
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Avalugg-H",
+            "Types": [
+                "Ice",
+                "Rock"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 95,
+                "Attack": 127,
+                "Defense": 184,
+                "Sp. Attack": 34,
+                "Sp. Defense": 36,
+                "Speed": 38
             },
             "Balancing": {
                 "HP": 0,
@@ -20984,6 +22637,35 @@
                 "Sp. Attack": 100,
                 "Sp. Defense": 100,
                 "Speed": 70
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Decidueye-H",
+            "Types": [
+                "Grass",
+                "Fighting"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 88,
+                "Attack": 112,
+                "Defense": 80,
+                "Sp. Attack": 95,
+                "Sp. Defense": 95,
+                "Speed": 60
             },
             "Balancing": {
                 "HP": 0,
