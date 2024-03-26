@@ -19,8 +19,8 @@
                 "Speed": 45
             },
             "Balancing": {
-                "HP": 1,
-                "Attack":-1,
+                "HP": 0,
+                "Attack":0,
                 "Defense": 0,
                 "Sp. Attack": 0,
                 "Sp. Defense": 0,
