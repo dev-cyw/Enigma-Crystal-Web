@@ -1,0 +1,25 @@
+{
+    "Pokemon":[
+        {
+            "Name": "Bulbasaur",
+            "Types":[
+                "Grass",
+                "Poison"
+            ],
+            "Abilities":[
+                "Overgrow",
+                "-"
+            ],
+            "Basestats":{
+                "HP": 45,
+                "Attack": 49,
+                "Defense": 49,
+                "Sp. Attack": 65,
+                "Sp. Defense": 65,
+                "Speed": 45
+            },
+            "Evolution Method": "Level",
+            "Evolution Requirement": "16"
+        }
+    ]
+}

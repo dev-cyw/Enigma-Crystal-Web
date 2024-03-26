@@ -1,0 +1,590 @@
+{
+    "Encounters":[
+        {
+            "Area": "Elms Lab",
+            "Pokemon":[
+                {
+                    "Name": "Chikorita",
+                    "Level": 5,
+                    "Rate": "Starter"
+                },
+                {
+                    "Name": "Cyndaquil",
+                    "Level": 5,
+                    "Rate": "Starter"
+                },
+                {
+                    "Name": "Totodile",
+                    "Level": 5,
+                    "Rate": "Starter"
+                }
+            ]
+        },
+        {
+            "Area": "Route 29",
+            "Pokemon": [
+                {
+                    "Name": "Rattata",
+                    "Level": 6,
+                    "Rate": 25
+                },
+                {
+                    "Name": "Starly",
+                    "Level": 6,
+                    "Rate": 20
+                },
+                {
+                    "Name": "Hoppip",
+                    "Level": 5,
+                    "Rate": 11
+                },
+                {
+                    "Name": "Caterpie",
+                    "Level": 6,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Weedle",
+                    "Level": 6,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Sentret",
+                    "Level": 6,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Metapod",
+                    "Level": 7,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Kakuna",
+                    "Level": 7,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Pichu",
+                    "Level": 5,
+                    "Rate": 4
+                }
+            ]
+        },
+        {
+            "Area": "Route 46",
+            "Pokemon": [
+                {
+                    "Name": "Roggenrola",
+                    "Level": 7,
+                    "Rate": 25
+                },
+                {
+                    "Name": "Paras",
+                    "Level": 6,
+                    "Rate": 20
+                },
+                {
+                    "Name": "Sandshrew",
+                    "Level": 5,
+                    "Rate": 15
+                },
+                {
+                    "Name": "Spearow",
+                    "Level": 6,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Pidgey",
+                    "Level": 6,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Metapod",
+                    "Level": 7,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Kakuna",
+                    "Level": 7,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Shinx",
+                    "Level": 8,
+                    "Rate": 5
+                }
+            ]
+        },
+        {
+            "Area": "Route 30",
+            "Pokemon": [
+                {
+                    "Name": "Sewaddle",
+                    "Level": 0,
+                    "Rate": 25
+                },
+                {
+                    "Name": "Bidoof",
+                    "Level": 0,
+                    "Rate": 20
+                },
+                {
+                    "Name": "Poliwag",
+                    "Level": 0,
+                    "Rate": 15
+                },
+                {
+                    "Name": "Gossifleur",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Ekans",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Spinarak",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Pikachu",
+                    "Level": 0,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Electrike",
+                    "Level": 0,
+                    "Rate": 5
+                }
+            ]
+        },
+        {
+            "Area": "Route 31",
+            "Pokemon": [
+                {
+                    "Name": "Sunkern",
+                    "Level": 6,
+                    "Rate": 25
+                },
+                {
+                    "Name": "Wooper",
+                    "Level": 6,
+                    "Rate": 20
+                },
+                {
+                    "Name": "Bellsprout",
+                    "Level": 5,
+                    "Rate": 11
+                },
+                {
+                    "Name": "Sewaddle",
+                    "Level": 6,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Hoothoot",
+                    "Level": 6,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Paras",
+                    "Level": 6,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Geodude",
+                    "Level": 7,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Sentret",
+                    "Level": 7,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Yanma",
+                    "Level": 5,
+                    "Rate": 4
+                }
+
+            ]
+        },
+        {
+            "Area": "Dark Cave",
+            "Pokemon": [
+                {
+                    "Name": "Phanpy",
+                    "Level": 8,
+                    "Rate": 25
+                },
+                {
+                    "Name": "Dunsparce",
+                    "Level": 7,
+                    "Rate": 20
+                },
+                {
+                    "Name": "Psyduck",
+                    "Level": 7,
+                    "Rate": 15
+                },
+                {
+                    "Name": "Slugma",
+                    "Level": 8,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Geodude",
+                    "Level": 9,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Nosepass",
+                    "Level": 8,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Teddiursa",
+                    "Level": 6,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Zubat",
+                    "Level": 8,
+                    "Rate": 5
+                }
+            ]
+        },
+        {
+            "Area": "Violet City",
+            "Pokemon": [
+                {
+                    "Name": "Eevee",
+                    "Level": 5,
+                    "Rate": "Gift"
+                }
+            ]
+        },
+        {
+            "Area": "Route 32",
+            "Pokemon": [
+                {
+                    "Name": "Mareep",
+                    "Level": 0,
+                    "Rate": 25
+                },
+                {
+                    "Name": "Wooloo",
+                    "Level": 0,
+                    "Rate": 20
+                },
+                {
+                    "Name": "Lotad",
+                    "Level": 0,
+                    "Rate": 15
+                },
+                {
+                    "Name": "Rattata",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Surskit",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Ledyba",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Yanma",
+                    "Level": 0,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Krabby",
+                    "Level": 0,
+                    "Rate": 5
+                }
+            ]
+        },
+        {
+            "Area": "Route 36A",
+            "Pokemon": [
+                {
+                    "Name": "Lillipup",
+                    "Level": 0,
+                    "Rate": 25
+                },
+                {
+                    "Name": "Blitzle",
+                    "Level": 0,
+                    "Rate": 20
+                },
+                {
+                    "Name": "Mareep",
+                    "Level": 0,
+                    "Rate": 15
+                },
+                {
+                    "Name": "Vulpix",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Houndour",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Growlithe",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Meowth",
+                    "Level": 0,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Farfetch'd",
+                    "Level": 0,
+                    "Rate": 5
+                }
+            ]
+        },
+        {
+            "Area": "Sprout Tower 1F",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Sprout Tower 2F",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Sprout Tower 3F",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Union Cave",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Route 33",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Slowpoke Well",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Azalea Town",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Ilex Forest",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Route 34",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Goldenrod City",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Route 35",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "National Park",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Route 36B",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Route 37",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Ecruteak City",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Route 38",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Route 39",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Olivine",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Route 40",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Route 41",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Route 42",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Mt Mortar",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        },
+        {
+            "Area": "Route 43",
+            "Pokemon": [
+                {
+                    "Name": "Bulbasaur",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        }
+    ]
+}

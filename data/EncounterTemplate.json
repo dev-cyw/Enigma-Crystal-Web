@@ -1,0 +1,44 @@
+{
+    "Encounters":[
+        {
+            "Area": "Route 29", 
+            "Pokemon":[
+                {
+                    "Name": "",
+                    "Level": 0,
+                    "Rate": 0
+                },
+                {
+                    "Name": "",
+                    "Level": 0,
+                    "Rate": 0
+                },
+                {
+                    "Name": "",
+                    "Level": 0,
+                    "Rate": 0
+                },
+                {
+                    "Name": "",
+                    "Level": 0,
+                    "Rate": 0
+                },
+                {
+                    "Name": "",
+                    "Level": 0,
+                    "Rate": 0
+                },
+                {
+                    "Name": "",
+                    "Level": 0,
+                    "Rate": 0
+                },
+                {
+                    "Name": "",
+                    "Level": 0,
+                    "Rate": 0
+                }
+            ]
+        }
+    ]
+}

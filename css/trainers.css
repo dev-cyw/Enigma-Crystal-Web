@@ -47,18 +47,6 @@ h1 {
     width: 200px;
 }
 
-.rival {
-    flex: 1;
-    text-align: left;
-}
-
-.rival > img {
-    width: 100%;
-    max-width: 100px;
-    height: auto;
-    image-rendering: pixelated;
-}
-
 .pokemon {
     display: flex;
     flex-wrap: wrap;
@@ -68,7 +56,7 @@ h1 {
 }
 
 .poke-item {
-    width: 120px;
+    width: 160px;
     text-align: center;
     border: 2px solid #2c2c2c;
     margin: 5px;
@@ -82,7 +70,7 @@ h1 {
 
 .empty {
     background-color: #2c2c2c;
-    width: 120px;
+    width: 160px;
     height: 160px;
 }
 
@@ -106,6 +94,7 @@ a {
 }
 
 p {
-    padding: 1px;
+    font-size: large;
+    padding: 3px;
     margin: 3px;
 }

@@ -106,6 +106,517 @@
                     ]
                 }
             ]
+        },
+        {
+            "Area": "",
+            "Name": "Don",
+            "Class": "Bug Catcher",
+            "Pokemon": [
+                {
+                    "Name": "Sewaddle",
+                    "Level": 10,
+                    "Ability": "Swarm",
+                    "Item": "-",
+                    "Moves":[
+                        "String Shot",
+                        "Tackle",
+                        "Bug Bite",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Paras",
+                    "Level": 11,
+                    "Ability": "Effect Spore",
+                    "Item": "-",
+                    "Moves":[
+                        "Scratch",
+                        "Stun Spore",
+                        "Absorb",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Beedrill",
+                    "Level": 11,
+                    "Ability": "Swarm",
+                    "Item": "-",
+                    "Moves":[
+                        "Bug Bite",
+                        "Poison Sting",
+                        "Fury Citter",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "Route 31",
+            "Name": "Wade",
+            "Class": "Bug Catcher",
+            "Pokemon": [
+                {
+                    "Name": "Yanma",
+                    "Level": 11,
+                    "Ability": "Speed Boost",
+                    "Item": "-",
+                    "Moves": [
+                        "Quick Attack",
+                        "Aerial Ace",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Butterfree",
+                    "Level": 11,
+                    "Ability": "Compound Eyes",
+                    "Item": "-",
+                    "Moves": [
+                        "Bug Bite",
+                        "Gust",
+                        "Confusion",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "Violet City - Optional",
+            "Name": "",
+            "Class": "Burglar",
+            "Pokemon": [
+                {
+                    "Name": "Gastly",
+                    "Level": 15,
+                    "Ability": "Levitate",
+                    "Item": "-",
+                    "Moves": [
+                        "Lick",
+                        "Mean Look",
+                        "Payback",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Natu",
+                    "Level": 15,
+                    "Ability": "Synchronize",
+                    "Item": "-",
+                    "Moves": [
+                        "Peck",
+                        "Night Shade",
+                        "Feather Dance",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Pawniard",
+                    "Level": 15,
+                    "Ability": "Defiant",
+                    "Item": "Dark Gem",
+                    "Moves": [
+                        "Metal Claw",
+                        "Payback",
+                        "-",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "Sprout Tower",
+            "Name": "Nico",
+            "Class": "Sage",
+            "Pokemon": [
+                {
+                    "Name": "Bellsprout",
+                    "Level": 15,
+                    "Ability": "Chlorophyll",
+                    "Item": "-",
+                    "Moves": [
+                        "Vine Whip",
+                        "Growth",
+                        "Wrap",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Chow",
+            "Class": "Sage",
+            "Pokemon": [
+                {
+                    "Name": "Paras",
+                    "Level": 13,
+                    "Ability": "Effect Spore",
+                    "Item": "",
+                    "Moves": [
+                        "Leech Seed",
+                        "Scratch",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Poliwag",
+                    "Level": 14,
+                    "Ability": "Water Absorb",
+                    "Item": "-",
+                    "Moves": [
+                        "Hypnosis",
+                        "Water Gun",
+                        "Pound",
+                        "Mud Shot"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Edmond",
+            "Class": "Sage",
+            "Pokemon": [
+                {
+                    "Name": "Teddiursa",
+                    "Level": 13,
+                    "Ability": "Quick Feet",
+                    "Item": "-",
+                    "Moves": [
+                        "Covet",
+                        "Lick",
+                        "Yawn",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Zubat",
+                    "Level": 14,
+                    "Ability": "Inner Focus",
+                    "Item": "-",
+                    "Moves": [
+                        "Absorb",
+                        "Mean Look",
+                        "Gust",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Jin",
+            "Class": "Sage",
+            "Pokemon": [
+                {
+                    "Name": "Hoothoot",
+                    "Level": 13,
+                    "Ability": "Keen Eye",
+                    "Item": "-",
+                    "Moves": [
+                        "Confusion",
+                        "Peck",
+                        "Growl",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Vulpix",
+                    "Level": 14,
+                    "Ability": "Flash Fire",
+                    "Item": "-",
+                    "Moves": [
+                        "Ember",
+                        "Fire Spin",
+                        "Protect",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Tympole",
+                    "Level": 14,
+                    "Ability": "Swift Swim",
+                    "Item": "-",
+                    "Moves": [
+                        "Acid",
+                        "Water Pulse",
+                        "Echoed Voice",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Neal",
+            "Class": "Sage",
+            "Pokemon": [
+                {
+                    "Name": "Surskit",
+                    "Level": 14,
+                    "Ability": "Swift Swim",
+                    "Item": "-",
+                    "Moves": [
+                        "Water Gun",
+                        "Bug Bite",
+                        "Quick Attack",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Bellsprout",
+                    "Level": 14,
+                    "Ability": "Chlorophyll",
+                    "Item": "-",
+                    "Moves": [
+                        "Sleep Powder",
+                        "Vine Whip",
+                        "-",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Troy",
+            "Class": "Sage",
+            "Pokemon": [
+                {
+                    "Name": "Rattata",
+                    "Level": 13,
+                    "Ability": "Keen Eye",
+                    "Item": "-",
+                    "Moves": [
+                        "Quick Attack",
+                        "Bite",
+                        "Focus Energy",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Growlithe-H",
+                    "Level": 14,
+                    "Ability": "Intimidate",
+                    "Item": "-",
+                    "Moves": [
+                        "Bite",
+                        "Flame Wheel",
+                        "Howl",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Cubone",
+                    "Level": 14,
+                    "Ability": "Rock Head",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "Boss Fight!",
+            "Name": "Li",
+            "Class": "Elder",
+            "Pokemon": [
+                {
+                    "Name": "Vulpix",
+                    "Level": 14,
+                    "Ability": "Flash Fire",
+                    "Item": "Oran Berry",
+                    "Moves": [
+                        "Quick Attack",
+                        "Will-O-Wisp",
+                        "Hex",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Teddiursa",
+                    "Level": 14,
+                    "Ability": "Quick Feet",
+                    "Item": "Oran Berry",
+                    "Moves": [
+                        "Baby-Doll-Eyes",
+                        "Scratch",
+                        "Lick",
+                        "Payback"
+                    ]
+                },
+                {
+                    "Name": "Wooper",
+                    "Level": 14,
+                    "Ability": "Water Absorb",
+                    "Item": "Oran Berry",
+                    "Moves": [
+                        "Water Gun",
+                        "Mud Shot",
+                        "Tail Whip",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Bellsprout",
+                    "Level": 15,
+                    "Ability": "Chlorophyll",
+                    "Item": "Oran Berry",
+                    "Moves": [
+                        "Growth",
+                        "Vine Whip",
+                        "Poison Powder",
+                        "Protect"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "Violet City Gym",
+            "Name": "Abe",
+            "Class": "Bird Keeper",
+            "Pokemon": [
+                {
+                    "Name": "Hoothoot",
+                    "Level": 15,
+                    "Ability": "Keen Eye",
+                    "Item": "-",
+                    "Moves": [
+                        "Aerial Ace",
+                        "Confusion",
+                        "Reflect",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Taillow",
+                    "Level": 15,
+                    "Ability": "Guts",
+                    "Item": "-",
+                    "Moves": [
+                        "Wing Attack",
+                        "Growl",
+                        "Focus Energy",
+                        "Quick Attack"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Rod",
+            "Class": "Bird Keeper",
+            "Pokemon": [
+                {
+                    "Name": "Staravia",
+                    "Level": 15,
+                    "Ability": "Intimidate",
+                    "Item": "-",
+                    "Moves": [
+                        "Wing Attack",
+                        "Quick Attack",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Pidgey",
+                    "Level": 15,
+                    "Ability": "Keen Eye",
+                    "Item": "-",
+                    "Moves": [
+                        "Sand Attack",
+                        "Aerial Ace",
+                        "Quick Attack",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Spearow",
+                    "Level": 15,
+                    "Ability": "Keen Eye",
+                    "Item": "Oran Berry",
+                    "Moves": [
+                        "Assurance",
+                        "Aerial Ace",
+                        "Growl",
+                        "-"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "Boss Fight!",
+            "Name": "",
+            "Class": "Falkner",
+            "Pokemon": [
+                {
+                    "Name": "Psyduck",
+                    "Level": 15,
+                    "Ability": "Unaware",
+                    "Item": "-",
+                    "Moves": [
+                        "Water Pulse",
+                        "Psybeam",
+                        "Icy Wind",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Farfetch'd",
+                    "Level": 15,
+                    "Ability": "Inner Focus",
+                    "Item": "Leek",
+                    "Moves": [
+                        "Quick Attack",
+                        "Aerial Ace",
+                        "Work Up",
+                        "Karate Chop"
+                    ]
+                },
+                {
+                    "Name": "Vibrava",
+                    "Level": 15,
+                    "Ability": "Levitate",
+                    "Item": "-",
+                    "Moves": [
+                        "Aerial Ace",
+                        "Struggle Bug",
+                        "Bulldoze",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Fletchinder",
+                    "Level": 16,
+                    "Ability": "Gale Wings",
+                    "Item": "Oran Berry",
+                    "Moves": [
+                        "Flame Charge",
+                        "Aerial Ace",
+                        "Quick Attack",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Noctowl",
+                    "Level": 16,
+                    "Ability": "Tinted Lens",
+                    "Item": "Berry Juice",
+                    "Moves": [
+                        "Confusion",
+                        "Air Cutter",
+                        "Feather Dance",
+                        "Hypnosis"
+                    ]
+                }
+            ]
         }
     ]
 }
