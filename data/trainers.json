@@ -2,7 +2,7 @@
     "Trainers": [
         {
             "Area": "Cherrygrove",
-            "Name": "- Chikorita",
+            "Name": "- Chikorita<br>15 IVs",
             "Class": "Rival",
             "Pokemon": [
                 {
@@ -21,7 +21,7 @@
         },
         {
             "Area": "",
-            "Name": "- Cyndaquil",
+            "Name": "- Cyndaquil<br>15 IVs",
             "Class": "Rival",
             "Pokemon": [
                 {
@@ -40,7 +40,7 @@
         },
         {
             "Area": "",
-            "Name": "- Totodile",
+            "Name": "- Totodile<br>15 IVs",
             "Class": "Rival",
             "Pokemon":[
                 {
@@ -89,7 +89,7 @@
                     "Moves": [
                         "Scratch",
                         "Poison Sting",
-                        "-",
+                        "Rollout",
                         "-"
                     ]
                 },
@@ -183,7 +183,7 @@
         },
         {
             "Area": "Violet City - Optional",
-            "Name": "",
+            "Name": "Vini<br>31 IVs<br><br>-5 Chesto Berries<br>-5 Oran Berries",
             "Class": "Burglar",
             "Pokemon": [
                 {
@@ -199,14 +199,14 @@
                     ]
                 },
                 {
-                    "Name": "Natu",
+                    "Name": "Salandit",
                     "Level": 15,
-                    "Ability": "Synchronize",
+                    "Ability": "Corrosion",
                     "Item": "-",
                     "Moves": [
-                        "Peck",
-                        "Night Shade",
-                        "Feather Dance",
+                        "Ember",
+                        "Poison Fang",
+                        "Fake Out",
                         "-"
                     ]
                 },
@@ -288,6 +288,18 @@
                         "Covet",
                         "Lick",
                         "Yawn",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Sunkern",
+                    "Level": 14,
+                    "Ability": "Inner Focus",
+                    "Item": "-",
+                    "Moves": [
+                        "Absorb",
+                        "Ember",
+                        "Growth",
                         "-"
                     ]
                 },
@@ -424,7 +436,7 @@
         },
         {
             "Area": "Boss Fight!",
-            "Name": "Li",
+            "Name": "Li<br>31 IVs",
             "Class": "Elder",
             "Pokemon": [
                 {
@@ -553,7 +565,7 @@
         },
         {
             "Area": "Boss Fight!",
-            "Name": "",
+            "Name": "<br>31 IVs<br><br>-TM 51 (Roost)",
             "Class": "Falkner",
             "Pokemon": [
                 {
@@ -614,6 +626,221 @@
                         "Air Cutter",
                         "Feather Dance",
                         "Hypnosis"
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "Route 32",
+            "Name": "Albert",
+            "Class": "Youngster",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Liz",
+            "Class": "Picnicker",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Henry",
+            "Class": "Fisherman",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Justin",
+            "Class": "Fisherman",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Ralph",
+            "Class": "Fisherman",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Roland",
+            "Class": "Camper",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Gordon",
+            "Class": "Youngster",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "Union Cave (Gauntlet)",
+            "Name": "Daniel",
+            "Class": "Hiker",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Russel",
+            "Class": "Hiker",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Bill",
+            "Class": "Firebreather",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Larry",
+            "Class": "Poke Maniac",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "NAME",
+            "Class": "Black Belt",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "Route 33",
+            "Name": "Anthony<br>-Double Battle",
+            "Class": "Hiker",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "Slowpoke Well",
+            "Name": "",
+            "Class": "Team Rocket Grunt M",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "Back to Back!",
+            "Name": "",
+            "Class": "Team Rocket Grunt F",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "",
+            "Class": "Team Rocket Grunt M",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "Boss Fight!",
+            "Name": "<br>31 IVs",
+            "Class": "Proton",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "Azalea Town Gym",
+            "Name": "NAME",
+            "Class": "Bug Catcher",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "NAME",
+            "Class": "Bug Catcher",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "",
+            "Name": "Amy & Mimi",
+            "Class": "Twins",
+            "Pokemon": [
+
+            ]
+        },
+        {
+            "Area": "Boss Fight!",
+            "Name": "<br>31 IVs<br>Rain<br><br>-TM 00 (U-Turn)",
+            "Class": "Bugsy",
+            "Pokemon": [
+                {
+                    "Name": "Parasect",
+                    "Level": 25,
+                    "Ability": "Effect Spore",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Gligar",
+                    "Level": 25,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Pinsir",
+                    "Level": 25,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Whirlipede",
+                    "Level": 25,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
                     ]
                 }
             ]

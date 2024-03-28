@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             case 'Flying':
                                 return '#A890F0';
                             default:
-                                return '#18181b'; // Default color
+                                return '#232329'; // Default color
                         }
                     }
 
@@ -71,6 +71,11 @@ document.addEventListener("DOMContentLoaded", function() {
                         pokemon.Basestats.Speed + pokemon.Balancing.Speed
                     ].reduce((acc, curr) => acc + curr, 0);
 
+                    const BalanceStats = 
+                        pokemon.Balancing.HP + pokemon.Balancing.Attack +
+                        pokemon.Balancing.Defense + pokemon.Balancing['Sp. Attack'] +
+                        pokemon.Balancing['Sp. Defense'] + pokemon.Balancing.Speed;
+
                     const row = `
     <tr>
         <td class="small-column"><img src="../images/pokemon/${pokemon.Name.toLowerCase()}.png" alt="${pokemon.Name}"></td>
@@ -83,7 +88,7 @@ document.addEventListener("DOMContentLoaded", function() {
         <td class="stat-column" style="color: ${getBalancingColor(pokemon.Balancing['Sp. Attack'])};">${pokemon.Basestats['Sp. Attack'] + pokemon.Balancing['Sp. Attack']} ${pokemon.Balancing['Sp. Attack'] !== 0 ? `(${pokemon.Balancing['Sp. Attack'] > 0 ? '+' : ''}${pokemon.Balancing['Sp. Attack']})` : ''}</td>
         <td class="stat-column" style="color: ${getBalancingColor(pokemon.Balancing['Sp. Defense'])};">${pokemon.Basestats['Sp. Defense'] + pokemon.Balancing['Sp. Defense']} ${pokemon.Balancing['Sp. Defense'] !== 0 ? `(${pokemon.Balancing['Sp. Defense'] > 0 ? '+' : ''}${pokemon.Balancing['Sp. Defense']})` : ''}</td>
         <td class="stat-column" style="color: ${getBalancingColor(pokemon.Balancing.Speed)};">${pokemon.Basestats.Speed + pokemon.Balancing.Speed} ${pokemon.Balancing.Speed !== 0 ? `(${pokemon.Balancing.Speed > 0 ? '+' : ''}${pokemon.Balancing.Speed})` : ''}</td>
-        <td class="stat-column">${totalStats}</td>
+        <td class="stat-column" style="color: ${getBalancingColor(BalanceStats)};">${totalStats + BalanceStats} ${BalanceStats !== 0 ? `(${BalanceStats > 0 ? '+' : ''}${BalanceStats})` : ''}</td>
         <td class ="ability">${pokemon.Abilities[0]}</td>
         <td class="ability">${pokemon.Abilities[1]}</td>
         <td class="evo-method">${pokemon['Evolution Method']}</td>
