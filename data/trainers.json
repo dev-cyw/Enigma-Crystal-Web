@@ -144,7 +144,7 @@
                     "Moves":[
                         "Bug Bite",
                         "Poison Sting",
-                        "Fury Citter",
+                        "Fury Cutter",
                         "-"
                     ]
                 }
@@ -214,7 +214,7 @@
                     "Name": "Pawniard",
                     "Level": 15,
                     "Ability": "Defiant",
-                    "Item": "Dark Gem",
+                    "Item": "-",
                     "Moves": [
                         "Metal Claw",
                         "Payback",
@@ -635,7 +635,30 @@
             "Name": "Albert",
             "Class": "Youngster",
             "Pokemon": [
-
+                {
+                    "Name": "Spearow",
+                    "Level": 17,
+                    "Ability": "Keen Eye",
+                    "Item": "-",
+                    "Moves": [
+                        "Aerial Ace",
+                        "Assurance",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Luxio",
+                    "Level": 17,
+                    "Ability": "Intimidate",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -643,7 +666,30 @@
             "Name": "Liz",
             "Class": "Picnicker",
             "Pokemon": [
-
+                {
+                    "Name": "Gossifleur",
+                    "Level": 18,
+                    "Ability": "Cotton Down",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Swadloon",
+                    "Level": 20,
+                    "Ability": "Leaf Guard",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -651,7 +697,30 @@
             "Name": "Henry",
             "Class": "Fisherman",
             "Pokemon": [
-
+                {
+                    "Name": "Magikarp",
+                    "Level": 18,
+                    "Ability": "Swift Swim",
+                    "Item": "Focus Band",
+                    "Moves": [
+                        "Bounce",
+                        "Hydro Pump",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Magikarp",
+                    "Level": 19,
+                    "Ability": "Swift Swim",
+                    "Item": "Wise Glasses",
+                    "Moves": [
+                        "Bounce",
+                        "Hydro Pump",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -659,7 +728,42 @@
             "Name": "Justin",
             "Class": "Fisherman",
             "Pokemon": [
-
+                {
+                    "Name": "Finneon",
+                    "Level": 20,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Poliwag",
+                    "Level": 20,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Basculin",
+                    "Level": 20,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -667,7 +771,18 @@
             "Name": "Ralph",
             "Class": "Fisherman",
             "Pokemon": [
-
+                {
+                    "Name": "Tentacool",
+                    "Level": 23,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -675,7 +790,42 @@
             "Name": "Roland",
             "Class": "Camper",
             "Pokemon": [
-
+                {
+                    "Name": "Skiploom",
+                    "Level": 20,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Lotad",
+                    "Level": 20,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Nidorino",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -683,7 +833,30 @@
             "Name": "Gordon",
             "Class": "Youngster",
             "Pokemon": [
-
+                {
+                    "Name": "Raticate",
+                    "Level": 21,
+                    "Ability": "Guts",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Herdier",
+                    "Level": 21,
+                    "Ability": "Intimidate",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -691,7 +864,42 @@
             "Name": "Daniel",
             "Class": "Hiker",
             "Pokemon": [
-
+                {
+                    "Name": "Nosepass",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Dunsparce",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Makuhita",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -699,7 +907,30 @@
             "Name": "Russel",
             "Class": "Hiker",
             "Pokemon": [
-
+                {
+                    "Name": "Onix",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Stunfisk",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -707,7 +938,42 @@
             "Name": "Bill",
             "Class": "Firebreather",
             "Pokemon": [
-
+                {
+                    "Name": "Growlithe",
+                    "Level": 20,
+                    "Ability": "Flash Fire",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Slugma",
+                    "Level": 20,
+                    "Ability": "Weak Armor",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Darumaka",
+                    "Level": 21,
+                    "Ability": "Hustle",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -715,7 +981,42 @@
             "Name": "Larry",
             "Class": "Poke Maniac",
             "Pokemon": [
-
+                {
+                    "Name": "Cranidos",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Slowpoke-G",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Grotle",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -723,12 +1024,35 @@
             "Name": "NAME",
             "Class": "Black Belt",
             "Pokemon": [
-
+                {
+                    "Name": "Throh",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Mienfoo",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
             "Area": "Route 33",
-            "Name": "Anthony<br>-Double Battle",
+            "Name": "Anthony<br>Double Battle",
             "Class": "Hiker",
             "Pokemon": [
 
@@ -763,7 +1087,54 @@
             "Name": "<br>31 IVs",
             "Class": "Proton",
             "Pokemon": [
-
+                {
+                    "Name": "Houndour",
+                    "Level": 21,
+                    "Ability": "Flash Fire",
+                    "Item": "-",
+                    "Moves": [
+                        "Bite",
+                        "Flame Charge",
+                        "Howl",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Elekid",
+                    "Level": 21,
+                    "Ability": "Static",
+                    "Item": "-",
+                    "Moves": [
+                        "Shock Wave",
+                        "Swift",
+                        "Low Kick",
+                        "Ice Punch"
+                    ]
+                },
+                {
+                    "Name": "Croagunk",
+                    "Level": 21,
+                    "Ability": "Poison Touch",
+                    "Item": "-",
+                    "Moves": [
+                        "Bullet Punch",
+                        "Pursuit",
+                        "Fake Out",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Scraggy",
+                    "Level": 21,
+                    "Ability": "Moxie",
+                    "Item": "-",
+                    "Moves": [
+                        "Headbutt",
+                        "Payback",
+                        "Counter",
+                        "Bulk Up"
+                    ]
+                }
             ]
         },
         {
@@ -792,54 +1163,78 @@
         },
         {
             "Area": "Boss Fight!",
-            "Name": "<br>31 IVs<br>Rain<br><br>-TM 00 (U-Turn)",
+            "Name": "<br>31 IVs<br>Rain<br><br>-TM 89 (U-Turn)",
             "Class": "Bugsy",
             "Pokemon": [
                 {
                     "Name": "Parasect",
-                    "Level": 25,
+                    "Level": 24,
                     "Ability": "Effect Spore",
+                    "Item": "Leftovers",
+                    "Moves": [
+                        "Bug Bite",
+                        "Leech Seed",
+                        "Cross Poison",
+                        "Absorb"
+                    ]
+                },
+                {
+                    "Name": "Skorupi",
+                    "Level": 25,
+                    "Ability": "Battle Armor",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
-                        "-",
-                        "-"
+                        "Hone Claws",
+                        "Poison Fang",
+                        "Bite",
+                        "Venoshock"
                     ]
                 },
                 {
                     "Name": "Gligar",
                     "Level": 25,
-                    "Ability": "",
+                    "Ability": "Hyper Cutter",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
-                        "-",
+                        "Acrobatics",
+                        "U-Turn",
+                        "Quick Attack",
                         "-"
                     ]
                 },
                 {
                     "Name": "Pinsir",
                     "Level": 25,
-                    "Ability": "",
-                    "Item": "-",
+                    "Ability": "Mold Breaker",
+                    "Item": "Sitrus Berry",
                     "Moves": [
-                        "-",
-                        "-",
-                        "-",
-                        "-"
+                        "Seismic Toss",
+                        "Bug Bite",
+                        "Brutal Swing",
+                        "Vise Grip"
                     ]
                 },
                 {
                     "Name": "Whirlipede",
                     "Level": 25,
-                    "Ability": "",
+                    "Ability": "Speed Boost",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
-                        "-",
+                        "Iron Defense",
+                        "Poison Tail",
+                        "Rollout",
+                        "Protect"
+                    ]
+                },
+                {
+                    "Name": "Scyther",
+                    "Level": 25,
+                    "Ability": "Technician",
+                    "Item": "-",
+                    "Moves": [
+                        "U-Turn",
+                        "Wing Attack",
+                        "Slash",
                         "-"
                     ]
                 }

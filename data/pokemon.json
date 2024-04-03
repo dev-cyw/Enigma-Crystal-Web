@@ -1280,7 +1280,7 @@
             "Name": "Ninetales-A",
             "Types": [
                 "Ice",
-                ""
+                "Fairy"
             ],
             "Abilities": [
                 "-",
@@ -10328,7 +10328,7 @@
             "Name": "Volbeat",
             "Types": [
                 "Bug",
-                ""
+                "Electric"
             ],
             "Abilities": [
                 "-",
@@ -10357,7 +10357,7 @@
             "Name": "Illumise",
             "Types": [
                 "Bug",
-                ""
+                "Electric"
             ],
             "Abilities": [
                 "-",
@@ -12996,7 +12996,7 @@
             "Name": "Luxray",
             "Types": [
                 "Electric",
-                ""
+                "Dark"
             ],
             "Abilities": [
                 "-",
@@ -14765,7 +14765,7 @@
             "Name": "Electivire",
             "Types": [
                 "Electric",
-                ""
+                "Fighting"
             ],
             "Abilities": [
                 "-",
@@ -14794,7 +14794,7 @@
             "Name": "Magmortar",
             "Types": [
                 "Fire",
-                ""
+                "Dark"
             ],
             "Abilities": [
                 "-",
@@ -15155,6 +15155,151 @@
                 "Sp. Attack": 95,
                 "Sp. Defense": 77,
                 "Speed": 91
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Rotom-Fan",
+            "Types": [
+                "Electric",
+                "Flying"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 50,
+                "Attack": 65,
+                "Defense": 107,
+                "Sp. Attack": 105,
+                "Sp. Defense": 107,
+                "Speed": 86
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Rotom-Frost",
+            "Types": [
+                "Electric",
+                "Ice"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 50,
+                "Attack": 65,
+                "Defense": 107,
+                "Sp. Attack": 105,
+                "Sp. Defense": 107,
+                "Speed": 86
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Rotom-Heat",
+            "Types": [
+                "Electric",
+                "Fire"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 50,
+                "Attack": 65,
+                "Defense": 107,
+                "Sp. Attack": 105,
+                "Sp. Defense": 107,
+                "Speed": 86
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Rotom-Mow",
+            "Types": [
+                "Electric",
+                "Grass"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 50,
+                "Attack": 65,
+                "Defense": 107,
+                "Sp. Attack": 105,
+                "Sp. Defense": 107,
+                "Speed": 86
+            },
+            "Balancing": {
+                "HP": 0,
+                "Attack": 0,
+                "Defense": 0,
+                "Sp. Attack": 0,
+                "Sp. Defense": 0,
+                "Speed": 0
+            },
+            "Evolution Method": "",
+            "Evolution Requirement": ""
+        },
+        {
+            "Name": "Rotom-Wash",
+            "Types": [
+                "Electric",
+                "Water"
+            ],
+            "Abilities": [
+                "-",
+                "-"
+            ],
+            "Basestats": {
+                "HP": 50,
+                "Attack": 65,
+                "Defense": 107,
+                "Sp. Attack": 105,
+                "Sp. Defense": 107,
+                "Speed": 86
             },
             "Balancing": {
                 "HP": 0,

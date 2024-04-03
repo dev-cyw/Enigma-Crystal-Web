@@ -1,6 +1,66 @@
 {
     "Encounters":[
         {
+            "Area": "Fishing",
+            "Pokemon":[
+                {
+                    "Name": "Psyduck",
+                    "Level": 5,
+                    "Rate": "TBD"
+                },
+                {
+                    "Name": "Krabby",
+                    "Level": 5,
+                    "Rate": "TBD"
+                },
+                {
+                    "Name": "Remoraid",
+                    "Level": 5,
+                    "Rate": "TBD"
+                },
+                {
+                    "Name": "Horsea",
+                    "Level": 5,
+                    "Rate": "TBD"
+                },
+                {
+                    "Name": "Tirtouga",
+                    "Level": 5,
+                    "Rate": "TBD"
+                }
+            ]
+        },
+        {
+            "Area": "Surfing",
+            "Pokemon":[
+                {
+                    "Name": "Tentacool",
+                    "Level": 5,
+                    "Rate": 60
+                },
+                {
+                    "Name": "Magikarp",
+                    "Level": 5,
+                    "Rate": 30
+                },
+                {
+                    "Name": "Chinchou",
+                    "Level": 5,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Shellder",
+                    "Level": 5,
+                    "Rate": 4
+                },
+                {
+                    "Name": "Wartortle",
+                    "Level": 5,
+                    "Rate": 1
+                }
+            ]
+        },
+        {
             "Area": "Elms Lab",
             "Pokemon":[
                 {
@@ -99,12 +159,12 @@
                     "Rate": 10
                 },
                 {
-                    "Name": "Metapod",
+                    "Name": "Sunkern",
                     "Level": 7,
                     "Rate": 10
                 },
                 {
-                    "Name": "Kakuna",
+                    "Name": "Ledyba",
                     "Level": 7,
                     "Rate": 5
                 },
@@ -129,7 +189,7 @@
                     "Rate": 20
                 },
                 {
-                    "Name": "Poliwag",
+                    "Name": "Tympole",
                     "Level": 0,
                     "Rate": 15
                 },
@@ -357,33 +417,49 @@
             ]
         },
         {
-            "Area": "Sprout Tower 1F",
+            "Area": "Sprout Tower",
             "Pokemon": [
                 {
-                    "Name": "Bulbasaur",
+                    "Name": "Hoothoot",
                     "Level": 0,
-                    "Rate": 0
-                }
-            ]
-        },
-        {
-            "Area": "Sprout Tower 2F",
-            "Pokemon": [
+                    "Rate": 25
+                },
                 {
-                    "Name": "Bulbasaur",
+                    "Name": "Bellsprout",
                     "Level": 0,
-                    "Rate": 0
-                }
-            ]
-        },
-        {
-            "Area": "Sprout Tower 3F",
-            "Pokemon": [
+                    "Rate": 20
+                },
                 {
-                    "Name": "Bulbasaur",
+                    "Name": "Rattata",
                     "Level": 0,
-                    "Rate": 0
+                    "Rate": 15
+                },
+                {
+                    "Name": "Poliwag",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Spinarak",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Elekid",
+                    "Level": 0,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Cubone",
+                    "Level": 0,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Gastly",
+                    "Level": 0,
+                    "Rate": 5
                 }
+
             ]
         },
         {
@@ -420,9 +496,9 @@
             "Area": "Azalea Town",
             "Pokemon": [
                 {
-                    "Name": "Bulbasaur",
-                    "Level": 0,
-                    "Rate": 0
+                    "Name": "Sandshrew-A",
+                    "Level": 5,
+                    "Rate": "Trade For Sandshrew"
                 }
             ]
         },
