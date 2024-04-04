@@ -97,7 +97,6 @@ document.addEventListener("DOMContentLoaded", function() {
 `;
 
                     rows += row;
-                    console.log(`Image path: ../images/pokemon/${pokemon.Name.toLowerCase()}.png`);
 
                 });
                 tableBody.innerHTML = rows;
