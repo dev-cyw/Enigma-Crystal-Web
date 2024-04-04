@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
                     const row = `
     <tr>
-        <td class="small-column"><img src="../images/pokemon/${pokemon.Name.toLowerCase()}.png" alt="${pokemon.Name}"></td>
+        <td class="small-column"><img src="../images/pokemon/${pokemon.Name.toLowerCase()}.png?v=1" alt="${pokemon.Name}"></td>
         <td class="small-column">${pokemon.Name}</td>
         <td class="small-column" style="background-color: ${getTypeBackgroundColor(pokemon.Types[0])};">${pokemon.Types[0]}</td>
         <td class="small-column" style="background-color: ${pokemon.Types[1] ? getTypeBackgroundColor(pokemon.Types[1]) : '#18181b'};">${pokemon.Types[1] ? pokemon.Types[1] : '-'}</td>
@@ -97,6 +97,8 @@ document.addEventListener("DOMContentLoaded", function() {
 `;
 
                     rows += row;
+                    console.log(`Image path: ../images/pokemon/${pokemon.Name.toLowerCase()}.png`);
+
                 });
                 tableBody.innerHTML = rows;
             }
