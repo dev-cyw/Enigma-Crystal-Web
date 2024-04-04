@@ -730,7 +730,7 @@
             "Pokemon": [
                 {
                     "Name": "Finneon",
-                    "Level": 20,
+                    "Level": 19,
                     "Ability": "-",
                     "Item": "-",
                     "Moves": [
@@ -742,7 +742,7 @@
                 },
                 {
                     "Name": "Poliwag",
-                    "Level": 20,
+                    "Level": 19,
                     "Ability": "-",
                     "Item": "-",
                     "Moves": [
@@ -792,7 +792,7 @@
             "Pokemon": [
                 {
                     "Name": "Skiploom",
-                    "Level": 20,
+                    "Level": 21,
                     "Ability": "-",
                     "Item": "-",
                     "Moves": [
