@@ -637,7 +637,7 @@
             "Pokemon": [
                 {
                     "Name": "Spearow",
-                    "Level": 17,
+                    "Level": 16,
                     "Ability": "Keen Eye",
                     "Item": "-",
                     "Moves": [
@@ -649,7 +649,7 @@
                 },
                 {
                     "Name": "Luxio",
-                    "Level": 17,
+                    "Level": 16,
                     "Ability": "Intimidate",
                     "Item": "-",
                     "Moves": [
@@ -668,7 +668,7 @@
             "Pokemon": [
                 {
                     "Name": "Gossifleur",
-                    "Level": 18,
+                    "Level": 17,
                     "Ability": "Cotton Down",
                     "Item": "-",
                     "Moves": [
@@ -679,8 +679,8 @@
                     ]
                 },
                 {
-                    "Name": "Swadloon",
-                    "Level": 20,
+                    "Name": "Sewaddle",
+                    "Level": 19,
                     "Ability": "Leaf Guard",
                     "Item": "-",
                     "Moves": [
@@ -730,7 +730,7 @@
             "Pokemon": [
                 {
                     "Name": "Finneon",
-                    "Level": 19,
+                    "Level": 18,
                     "Ability": "-",
                     "Item": "-",
                     "Moves": [
@@ -742,7 +742,7 @@
                 },
                 {
                     "Name": "Poliwag",
-                    "Level": 19,
+                    "Level": 18,
                     "Ability": "-",
                     "Item": "-",
                     "Moves": [
@@ -754,7 +754,7 @@
                 },
                 {
                     "Name": "Basculin",
-                    "Level": 20,
+                    "Level": 19,
                     "Ability": "-",
                     "Item": "-",
                     "Moves": [
@@ -773,7 +773,7 @@
             "Pokemon": [
                 {
                     "Name": "Tentacool",
-                    "Level": 23,
+                    "Level": 22,
                     "Ability": "-",
                     "Item": "-",
                     "Moves": [
@@ -816,7 +816,7 @@
                 },
                 {
                     "Name": "Nidorino",
-                    "Level": 21,
+                    "Level": 20,
                     "Ability": "-",
                     "Item": "-",
                     "Moves": [
@@ -1055,7 +1055,42 @@
             "Name": "Anthony<br>Double Battle",
             "Class": "Hiker",
             "Pokemon": [
-
+                {
+                    "Name": "Diglett",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Roggenrola",
+                    "Level": 21,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Riolu",
+                    "Level": 22,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -1063,7 +1098,42 @@
             "Name": "",
             "Class": "Team Rocket Grunt M",
             "Pokemon": [
-
+                {
+                    "Name": "Ekans",
+                    "Level": 22,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Voltorb",
+                    "Level": 22,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Zubat",
+                    "Level": 22,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -1071,7 +1141,30 @@
             "Name": "",
             "Class": "Team Rocket Grunt F",
             "Pokemon": [
-
+                {
+                    "Name": "Liepard",
+                    "Level": 22,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Cacnea",
+                    "Level": 22,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -1079,7 +1172,29 @@
             "Name": "",
             "Class": "Team Rocket Grunt M",
             "Pokemon": [
-
+                {
+                    "Name": "Grimer",
+                    "Level": 22,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },{
+                    "Name": "Sandile",
+                    "Level": 22,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -1125,7 +1240,7 @@
                 },
                 {
                     "Name": "Scraggy",
-                    "Level": 21,
+                    "Level": 22,
                     "Ability": "Moxie",
                     "Item": "-",
                     "Moves": [
@@ -1168,7 +1283,7 @@
             "Pokemon": [
                 {
                     "Name": "Parasect",
-                    "Level": 24,
+                    "Level": 23,
                     "Ability": "Effect Spore",
                     "Item": "Leftovers",
                     "Moves": [
@@ -1180,7 +1295,7 @@
                 },
                 {
                     "Name": "Skorupi",
-                    "Level": 25,
+                    "Level": 24,
                     "Ability": "Battle Armor",
                     "Item": "-",
                     "Moves": [
@@ -1192,7 +1307,7 @@
                 },
                 {
                     "Name": "Gligar",
-                    "Level": 25,
+                    "Level": 24,
                     "Ability": "Hyper Cutter",
                     "Item": "-",
                     "Moves": [
@@ -1204,7 +1319,7 @@
                 },
                 {
                     "Name": "Pinsir",
-                    "Level": 25,
+                    "Level": 24,
                     "Ability": "Mold Breaker",
                     "Item": "Sitrus Berry",
                     "Moves": [
@@ -1216,7 +1331,7 @@
                 },
                 {
                     "Name": "Whirlipede",
-                    "Level": 25,
+                    "Level": 24,
                     "Ability": "Speed Boost",
                     "Item": "-",
                     "Moves": [
@@ -1228,7 +1343,7 @@
                 },
                 {
                     "Name": "Scyther",
-                    "Level": 25,
+                    "Level": 23,
                     "Ability": "Technician",
                     "Item": "-",
                     "Moves": [
