@@ -835,7 +835,7 @@
             "Pokemon": [
                 {
                     "Name": "Raticate",
-                    "Level": 21,
+                    "Level": 20,
                     "Ability": "Guts",
                     "Item": "-",
                     "Moves": [
@@ -847,7 +847,7 @@
                 },
                 {
                     "Name": "Herdier",
-                    "Level": 21,
+                    "Level": 20,
                     "Ability": "Intimidate",
                     "Item": "-",
                     "Moves": [

@@ -61,6 +61,16 @@
             ]
         },
         {
+            "Area": "Heabutt",
+            "Pokemon":[
+                {
+                    "Name": "Heracross",
+                    "Level": 5,
+                    "Rate": "5%"
+                }
+            ]
+        },
+        {
             "Area": "Elms Lab",
             "Pokemon":[
                 {
