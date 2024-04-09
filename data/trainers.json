@@ -689,6 +689,18 @@
                         "-",
                         "-"
                     ]
+                },
+                {
+                    "Name": "Psyduck",
+                    "Level": 19,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
                 }
             ]
         },
@@ -773,6 +785,18 @@
             "Pokemon": [
                 {
                     "Name": "Tentacool",
+                    "Level": 22,
+                    "Ability": "-",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Tirtouga",
                     "Level": 22,
                     "Ability": "-",
                     "Item": "-",
@@ -1257,7 +1281,30 @@
             "Name": "NAME",
             "Class": "Bug Catcher",
             "Pokemon": [
-
+                {
+                    "Name": "Sizzlipede",
+                    "Level": 23,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Vivillon",
+                    "Level": 23,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -1265,7 +1312,42 @@
             "Name": "NAME",
             "Class": "Bug Catcher",
             "Pokemon": [
-
+                {
+                    "Name": "Kricketot",
+                    "Level": 23,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Yanma",
+                    "Level": 23,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Beedrill",
+                    "Level": 23,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {
@@ -1273,7 +1355,78 @@
             "Name": "Amy & Mimi",
             "Class": "Twins",
             "Pokemon": [
-
+                {
+                    "Name": "Snom",
+                    "Level": 23,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Shelmet",
+                    "Level": 23,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Blank",
+                    "Level": "",
+                    "Ability": "",
+                    "Item": "",
+                    "Moves": [
+                        " ",
+                        " ",
+                        " ",
+                        " "
+                    ]
+                },
+                {
+                    "Name": "Blank",
+                    "Level": "",
+                    "Ability": "",
+                    "Item": "",
+                    "Moves": [
+                        " ",
+                        " ",
+                        " ",
+                        " "
+                    ]
+                },
+                {
+                    "Name": "Karrablast",
+                    "Level": 23,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                },
+                {
+                    "Name": "Joltik",
+                    "Level": 23,
+                    "Ability": "",
+                    "Item": "-",
+                    "Moves": [
+                        "-",
+                        "-",
+                        "-",
+                        "-"
+                    ]
+                }
             ]
         },
         {

@@ -27,7 +27,7 @@ fetch('../data/trainers.json')
                 pokemonDiv.innerHTML += `
                     <div class="poke-item">
                         <img src="../images/pokemon/${pokemon.Name.toLowerCase()}.png">
-                        <p>${pokemon.Name}</p>
+                        <p>${pokemon.Name === 'Blank' ? '' : pokemon.Name}</p>
                         <p>${pokemon.Level}</p>
                         <p>${pokemon.Ability}</p>
                         <p>${pokemon.Item}</p>
