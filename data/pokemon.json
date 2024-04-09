@@ -7508,8 +7508,8 @@
                 "Sp. Defense": 0,
                 "Speed": 0
             },
-            "Evolution Method": "",
-            "Evolution Requirement": ""
+            "Evolution Method": "Level Up - Magcargo",
+            "Evolution Requirement": "25"
         },
         {
             "Name": "Magcargo",
@@ -7532,8 +7532,8 @@
             "Balancing": {
                 "HP": 0,
                 "Attack": 0,
-                "Defense": 0,
-                "Sp. Attack": 0,
+                "Defense": -15,
+                "Sp. Attack": -5,
                 "Sp. Defense": 0,
                 "Speed": 0
             },
