@@ -1,67 +1,7 @@
 {
     "Encounters":[
         {
-            "Area": "Fishing",
-            "Pokemon":[
-                {
-                    "Name": "Psyduck",
-                    "Level": 5,
-                    "Rate": "TBD"
-                },
-                {
-                    "Name": "Krabby",
-                    "Level": 5,
-                    "Rate": "TBD"
-                },
-                {
-                    "Name": "Remoraid",
-                    "Level": 5,
-                    "Rate": "TBD"
-                },
-                {
-                    "Name": "Horsea",
-                    "Level": 5,
-                    "Rate": "TBD"
-                },
-                {
-                    "Name": "Tirtouga",
-                    "Level": 5,
-                    "Rate": "TBD"
-                }
-            ]
-        },
-        {
-            "Area": "Surfing",
-            "Pokemon":[
-                {
-                    "Name": "Tentacool",
-                    "Level": 5,
-                    "Rate": 60
-                },
-                {
-                    "Name": "Magikarp",
-                    "Level": 5,
-                    "Rate": 30
-                },
-                {
-                    "Name": "Chinchou",
-                    "Level": 5,
-                    "Rate": 5
-                },
-                {
-                    "Name": "Shellder",
-                    "Level": 5,
-                    "Rate": 4
-                },
-                {
-                    "Name": "Wartortle",
-                    "Level": 5,
-                    "Rate": 1
-                }
-            ]
-        },
-        {
-            "Area": "Heabutt",
+            "Area": "Headbutt",
             "Pokemon":[
                 {
                     "Name": "Heracross",
@@ -71,7 +11,7 @@
             ]
         },
         {
-            "Area": "Elms Lab",
+            "Area": "Prof. Elms Lab",
             "Pokemon":[
                 {
                     "Name": "Chikorita",

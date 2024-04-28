@@ -1,0 +1,5151 @@
+{
+    "Movesets": [
+        {
+            "Name": "Bulbasaur",
+            "Learnset": [
+                "Tackle, 1",
+                "Growl, 1",
+                "Vine Whip, 5",
+                "Leech Seed, 8",
+                "Growth, 14",
+                "Poison Powder, 14",
+                "Sleep Powder, 14",
+                "Razor Leaf, 15",
+                "Take Down, 18",
+                "Sweet Scent, 22",
+                "Seed Bomb, 26",
+                "Synthesis, 29",
+                "Worry Seed, 30",
+                "Double Edge, 30",
+                "Solar Beam, 36"            
+            ],
+            "TM/HM": [
+                "HM01 - Cut"
+            ]
+        },
+        {
+            "Name": "Ivysaur",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Venusaur",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Charmander",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Charmeleon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Charizard",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Squirtle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wartortle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Blastoise",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Caterpie",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Metapod",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Butterfree",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Weedle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kakuna",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Beedrill",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pidgey",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pidgeotto",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pidgeot",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rattata",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Raticate",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Spearow",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Fearow",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ekans",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Arbok",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pikachu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Raichu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sandshrew",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sandslash",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nidoran-f",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nidorina",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nidoqueen",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nidoran-m",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nidorino",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nidoking",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Clefairy",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Clefable",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vulpix",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ninetales",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Jigglypuff",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wigglytuff",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zubat",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Golbat",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Oddish",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gloom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vileplume",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Paras",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Parasect",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Venonat",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Venomoth",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Diglett",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dugtrio",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Meowth",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Persian",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Psyduck",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Golduck",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mankey",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Primeape",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Growlithe",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Arcanine",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Poliwag",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Poliwhirl",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Poliwrath",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Abra",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kadabra",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Alakazam",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Machop",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Machoke",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Machamp",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bellsprout",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Weepinbell",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Victreebel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tentacool",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tentacruel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Geodude",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Graveler",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Golem",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ponyta",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rapidash",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Slowpoke",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Slowbro",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Magnemite",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Magneton",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Farfetch'd",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Doduo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dodrio",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Seel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dewgong",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Grimer",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Muk",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shellder",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cloyster",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gastly",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Haunter",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gengar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Onix",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Drowzee",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hypno",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Krabby",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kingler",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Voltorb",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Electrode",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Exeggcute",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Exeggutor",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cubone",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Marowak",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hitmonlee",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hitmonchan",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lickitung",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Koffing",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Weezing",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rhyhorn",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rhydon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chansey",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tangela",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kangaskhan",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Horsea",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Seadra",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Goldeen",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Seaking",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Staryu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Starmie",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mr. Mime",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Scyther",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Jynx",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Electabuzz",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Magmar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pinsir",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tauros",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Magikarp",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gyarados",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lapras",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ditto",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Eevee",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vaporeon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Jolteon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Flareon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Porygon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Omanyte",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Omastar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kabuto",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kabutops",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Aerodactyl",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Snorlax",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Articuno",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zapdos",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Moltres",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dratini",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dragonair",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dragonite",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mewtwo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mew",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chikorita",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bayleef",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Meganium",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cyndaquil",
+            "Learnset": [
+                "Headbutt, 3"
+            ],
+            "TM/HM": [
+
+            ]
+        },
+        {
+            "Name": "Quilava",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Typhlosion",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Totodile",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Croconaw",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Feraligatr",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sentret",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Furret",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hoothoot",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Noctowl",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ledyba",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ledian",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Spinarak",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ariados",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Crobat",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chinchou",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lanturn",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pichu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cleffa",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Igglybuff",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Togepi",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Togetic",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Natu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Xatu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mareep",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Flaaffy",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ampharos",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bellossom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Marill",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Azumarill",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sudowoodo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Politoed",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hoppip",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Skiploom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Jumpluff",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Aipom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sunkern",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sunflora",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Yanma",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wooper",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Quagsire",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Espeon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Umbreon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Murkrow",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Slowking",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Misdreavus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Unown",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wobbuffet",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Girafarig",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pineco",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Forretress",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dunsparce",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gligar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Steelix",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Snubbull",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Granbull",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Qwilfish",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Scizor",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shuckle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Heracross",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sneasel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Teddiursa",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ursaring",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Slugma",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Magcargo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Swinub",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Piloswine",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Corsola",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Remoraid",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Octillery",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Delibird",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mantine",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Skarmory",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Houndour",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Houndoom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kingdra",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Phanpy",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Donphan",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Porygon2",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Stantler",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Smeargle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tyrogue",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hitmontop",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Smoochum",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Elekid",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Magby",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Miltank",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Blissey",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Raikou",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Entei",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Suicune",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Larvitar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pupitar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tyranitar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lugia",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ho-oh",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Celebi",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Treecko",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Grovyle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sceptile",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Torchic",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Combusken",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Blaziken",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mudkip",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Marshtomp",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Swampert",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Poochyena",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mightyena",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zigzagoon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Linoone",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wurmple",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Silcoon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Beautifly",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cascoon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dustox",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lotad",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lombre",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ludicolo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Seedot",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nuzleaf",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shiftry",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Taillow",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Swellow",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wingull",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pelipper",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ralts",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kirlia",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gardevoir",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Surskit",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Masquerain",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shroomish",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Breloom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Slakoth",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vigoroth",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Slaking",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nincada",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ninjask",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shedinja",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Whismur",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Loudred",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Exploud",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Makuhita",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hariyama",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Azurill",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nosepass",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Skitty",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Delcatty",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sableye",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mawile",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Aron",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lairon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Aggron",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Meditite",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Medicham",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Electrike",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Manectric",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Plusle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Minun",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Volbeat",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Illumise",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Roselia",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gulpin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Swalot",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Carvanha",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sharpedo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wailmer",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wailord",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Numel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Camerupt",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Torkoal",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Spoink",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Grumpig",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Spinda",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Trapinch",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vibrava",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Flygon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cacnea",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cacturne",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Swablu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Altaria",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zangoose",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Seviper",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lunatone",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Solrock",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Barboach",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Whiscash",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Corphish",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Crawdaunt",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Baltoy",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Claydol",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lileep",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cradily",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Anorith",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Armaldo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Feebas",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Milotic",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Castform",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kecleon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shuppet",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Banette",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Duskull",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dusclops",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tropius",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chimecho",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Absol",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wynaut",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Snorunt",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Glalie",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Spheal",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sealeo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Walrein",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Clamperl",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Huntail",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gorebyss",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Relicanth",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Luvdisc",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bagon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shelgon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Salamence",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Beldum",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Metang",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Metagross",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Regirock",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Regice",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Registeel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Latias",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Latios",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kyogre",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Groudon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rayquaza",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Jirachi",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Deoxys",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Turtwig",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Grotle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Torterra",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chimchar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Monferno",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Infernape",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Piplup",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Prinplup",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Empoleon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Starly",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Staravia",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Staraptor",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bidoof",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bibarel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kricketot",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kricketune",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shinx",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Luxio",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Luxray",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Budew",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Roserade",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cranidos",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rampardos",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shieldon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bastiodon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Burmy",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wormadam",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mothim",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Combee",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vespiquen",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pachirisu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Buizel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Floatzel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cherubi",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cherrim",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shellos",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gastrodon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ambipom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Drifloon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Drifblim",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Buneary",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lopunny",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mismagius",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Honchkrow",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Glameow",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Purugly",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chingling",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Stunky",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Skuntank",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bronzor",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bronzong",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bonsly",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mime Jr.",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Happiny",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chatot",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Spiritomb",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gible",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gabite",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Garchomp",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Munchlax",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Riolu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lucario",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hippopotas",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hippowdon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Skorupi",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Drapion",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Croagunk",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Toxicroak",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Carnivine",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Finneon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lumineon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mantyke",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Snover",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Abomasnow",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Weavile",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Magnezone",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lickilicky",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rhyperior",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tangrowth",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Electivire",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Magmortar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Togekiss",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Yanmega",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Leafeon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Glaceon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gliscor",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mamoswine",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Porygon-Z",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gallade",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Probopass",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dusknoir",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Froslass",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rotom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Uxie",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mesprit",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Azelf",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dialga",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Palkia",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Heatran",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Regigigas",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Giratina",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cresselia",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Phione",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Manaphy",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Darkrai",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shaymin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Arceus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Victini",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Snivy",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Servine",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Serperior",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tepig",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pignite",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Emboar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Oshawott",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dewott",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Samurott",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Patrat",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Watchog",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lillipup",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Herdier",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Stoutland",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Purrloin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Liepard",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pansage",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Simisage",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pansear",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Simisear",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Panpour",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Simipour",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Munna",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Musharna",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pidove",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tranquill",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Unfezant",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Blitzle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zebstrika",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Roggenrola",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Boldore",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gigalith",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Woobat",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Swoobat",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Drilbur",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Excadrill",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Audino",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Timburr",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gurdurr",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Conkeldurr",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tympole",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Palpitoad",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Seismitoad",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Throh",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sawk",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sewaddle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Swadloon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Leavanny",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Venipede",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Whirlipede",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Scolipede",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cottonee",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Whimsicott",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Petilil",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lilligant",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Basculin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sandile",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Krokorok",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Krookodile",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Darumaka",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Darmanitan",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Maractus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dwebble",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Crustle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Scraggy",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Scrafty",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sigilyph",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Yamask",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cofagrigus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tirtouga",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Carracosta",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Archen",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Archeops",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Trubbish",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Garbodor",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zorua",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zoroark",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Minccino",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cinccino",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gothita",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gothorita",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gothitelle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Solosis",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Duosion",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Reuniclus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ducklett",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Swanna",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vanillite",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vanillish",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vanilluxe",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Deerling",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sawsbuck",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Emolga",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Karrablast",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Escavalier",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Foongus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Amoonguss",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Frillish",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Jellicent",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Alomomola",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Joltik",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Galvantula",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ferroseed",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ferrothorn",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Klink",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Klang",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Klinklang",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tynamo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Eelektrik",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Eelektross",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Elgyem",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Beheeyem",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Litwick",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lampent",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chandelure",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Axew",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Fraxure",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Haxorus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cubchoo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Beartic",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cryogonal",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shelmet",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Accelgor",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Stunfisk",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mienfoo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mienshao",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Druddigon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Golett",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Golurk",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pawniard",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bisharp",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bouffalant",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rufflet",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Braviary",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vullaby",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mandibuzz",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Heatmor",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Durant",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Deino",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zweilous",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hydreigon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Larvesta",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Volcarona",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cobalion",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Terrakion",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Virizion",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tornadus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Thundurus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Reshiram",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zekrom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Landorus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kyurem",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Keldeo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Meloetta",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Genesect",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chespin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Quilladin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chesnaught",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Fennekin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Braixen",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Delphox",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Froakie",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Frogadier",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Greninja",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bunnelby",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Diggersby",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Fletchling",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Fletchinder",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Talonflame",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Scatterbug",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Spewpa",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vivillon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Litleo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pyroar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Flab\u00c3\u00a9b\u00c3\u00a9",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Floette",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Florges",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Skiddo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gogoat",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pancham",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pangoro",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Furfrou",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Espurr",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Meowstic",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Honedge",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Doublade",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Aegislash",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Spritzee",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Aromatisse",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Swirlix",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Slurpuff",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Inkay",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Malamar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Binacle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Barbaracle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Skrelp",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dragalge",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Clauncher",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Clawitzer",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Helioptile",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Heliolisk",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tyrunt",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tyrantrum",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Amaura",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Aurorus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sylveon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hawlucha",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dedenne",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Carbink",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Goomy",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sliggoo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Goodra",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Klefki",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Phantump",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Trevenant",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pumpkaboo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gourgeist",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bergmite",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Avalugg",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Noibat",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Noivern",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Xerneas",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Yveltal",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zygarde",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Diancie",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hoopa",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Volcanion",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rowlet",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dartrix",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Decidueye",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Litten",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Torracat",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Incineroar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Popplio",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Brionne",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Primarina",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pikipek",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Trumbeak",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Toucannon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Yungoos",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gumshoos",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Grubbin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Charjabug",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Vikavolt",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Crabrawler",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Crabominable",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Oricorio",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cutiefly",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ribombee",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rockruff",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lycanroc",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wishiwashi",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mareanie",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Toxapex",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mudbray",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mudsdale",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dewpider",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Araquanid",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Fomantis",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lurantis",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Morelull",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shiinotic",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Salandit",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Salazzle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Stufful",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bewear",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bounsweet",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Steenee",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tsareena",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Comfey",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Oranguru",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Passimian",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wimpod",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Golisopod",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sandygast",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Palossand",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pyukumuku",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Type: Null",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Silvally",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Minior",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Komala",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Turtonator",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Togedemaru",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mimikyu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bruxish",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Drampa",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dhelmise",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Jangmo-o",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hakamo-o",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kommo-o",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tapu Koko",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tapu Lele",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tapu Bulu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tapu Fini",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cosmog",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cosmoem",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Solgaleo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lunala",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nihilego",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Buzzwole",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pheromosa",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Xurkitree",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Celesteela",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kartana",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Guzzlord",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Necrozma",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Magearna",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Marshadow",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Poipole",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Naganadel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Stakataka",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Blacephalon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zeraora",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Meltan",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Melmetal",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Grookey",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Thwackey",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rillaboom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Scorbunny",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Raboot",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cinderace",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sobble",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Drizzile",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Inteleon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Skwovet",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Greedent",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rookidee",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Corvisquire",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Corviknight",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Blipbug",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dottler",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Orbeetle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nickit",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Thievul",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gossifleur",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Eldegoss",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wooloo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dubwool",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chewtle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Drednaw",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Yamper",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Boltund",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rolycoly",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Carkol",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Coalossal",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Applin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Flapple",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Appletun",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Silicobra",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sandaconda",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cramorant",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Arrokuda",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Barraskewda",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Toxel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Toxtricity",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sizzlipede",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Centiskorch",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Clobbopus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Grapploct",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sinistea",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Polteageist",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hatenna",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hattrem",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hatterene",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Impidimp",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Morgrem",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Grimmsnarl",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Obstagoon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Perrserker",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cursola",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sirfetch'd",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mr. Rime",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Runerigus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Milcery",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Alcremie",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Falinks",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pincurchin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Snom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Frosmoth",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Stonjourner",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Eiscue",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Indeedee",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Morpeko",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cufant",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Copperajah",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dracozolt",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Arctozolt",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dracovish",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Arctovish",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Duraludon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dreepy",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Drakloak",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dragapult",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zacian",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zamazenta",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Eternatus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kubfu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Urshifu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Zarude",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Regieleki",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Regidrago",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Glastrier",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Spectrier",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Calyrex",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wyrdeer",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kleavor",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ursaluna",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Basculegion",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sneasler",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Overqwil",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Enamorus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sprigatito",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Floragato",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Meowscarada",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Fuecoco",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Crocalor",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Skeledirge",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Quaxly",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Quaxwell",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Quaquaval",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lechonk",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Oinkologne",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tarountula",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Spidops",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nymble",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Lokix",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pawmi",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pawmo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pawmot",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tandemaus",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Maushold",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Fidough",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dachsbun",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Smoliv",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dolliv",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Arboliva",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Squawkabilly",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Nacli",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Naclstack",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Garganacl",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Charcadet",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Armarouge",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ceruledge",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tadbulb",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bellibolt",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wattrel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kilowattrel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Maschiff",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Mabosstiff",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Shroodle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Grafaiai",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bramblin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Brambleghast",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Toedscool",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Toedscruel",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Klawf",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Capsakid",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Scovillain",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rellor",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Rabsca",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Flittle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Espathra",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tinkatink",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tinkatuff",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tinkaton",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wiglett",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wugtrio",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Bombirdier",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Finizen",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Palafin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Varoom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Revavroom",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cyclizar",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Orthworm",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Glimmet",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Glimmora",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Greavard",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Houndstone",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Flamigo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cetoddle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Cetitan",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Veluza",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dondozo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Tatsugiri",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Annihilape",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Clodsire",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Farigiraf",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dudunsparce",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Kingambit",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Great Tusk",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Scream Tail",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Brute Bonnet",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Flutter Mane",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Slither Wing",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sandy Shocks",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Iron Treads",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Iron Bundle",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Iron Hands",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Iron Jugulis",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Iron Moth",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Iron Thorns",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Frigibax",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Arctibax",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Baxcalibur",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gimmighoul",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gholdengo",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Wo-Chien",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chien-Pao",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ting-Lu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Chi-Yu",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Roaring Moon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Iron Valiant",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Koraidon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Miraidon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Walking Wake",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Iron Leaves",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Dipplin",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Poltchageist",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Sinistcha",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Okidogi",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Munkidori",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Fezandipiti",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Ogerpon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Archaludon",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Hydrapple",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Gouging Fire",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Raging Bolt",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Iron Boulder",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Iron Crown",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Terapagos",
+            "Learnset": [],
+            "TM/HM": []
+        },
+        {
+            "Name": "Pecharunt",
+            "Learnset": [],
+            "TM/HM": []
+        }
+    ]
+}

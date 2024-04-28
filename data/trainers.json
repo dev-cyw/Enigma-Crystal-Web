@@ -653,9 +653,9 @@
                     "Ability": "Intimidate",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
-                        "-",
+                        "Bite",
+                        "Spark",
+                        "Leer",
                         "-"
                     ]
                 }
@@ -672,8 +672,8 @@
                     "Ability": "Cotton Down",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
+                        "Razor Leaf",
+                        "Round",
                         "-",
                         "-"
                     ]
@@ -684,21 +684,21 @@
                     "Ability": "Leaf Guard",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
+                        "Razor Leaf",
+                        "Bug Bite",
                         "-",
                         "-"
                     ]
                 },
                 {
-                    "Name": "Psyduck",
+                    "Name": "Panpour",
                     "Level": 19,
-                    "Ability": "",
+                    "Ability": "Gluttony",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
-                        "-",
+                        "Bite",
+                        "Water Gun",
+                        "Lick",
                         "-"
                     ]
                 }
@@ -743,36 +743,36 @@
                 {
                     "Name": "Finneon",
                     "Level": 18,
-                    "Ability": "-",
+                    "Ability": "Storm Drain",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
-                        "-",
+                        "Charm",
+                        "Gust",
+                        "Water Gun",
                         "-"
                     ]
                 },
                 {
                     "Name": "Poliwag",
                     "Level": 18,
-                    "Ability": "-",
+                    "Ability": "Water Absorb",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
-                        "-",
+                        "Hypnosis",
+                        "Mud Shot",
+                        "Bubble Beam",
                         "-"
                     ]
                 },
                 {
                     "Name": "Basculin",
                     "Level": 19,
-                    "Ability": "-",
+                    "Ability": "Adaptability",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
-                        "-",
+                        "Aqua Jet",
+                        "Bite",
+                        "Tackle",
                         "-"
                     ]
                 }
@@ -786,24 +786,24 @@
                 {
                     "Name": "Tentacool",
                     "Level": 22,
-                    "Ability": "-",
+                    "Ability": "Clear Body",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
-                        "-",
+                        "Acid",
+                        "Water Pulse",
+                        "Wrap",
                         "-"
                     ]
                 },
                 {
                     "Name": "Tirtouga",
                     "Level": 22,
-                    "Ability": "-",
+                    "Ability": "Sturdy",
                     "Item": "-",
                     "Moves": [
-                        "-",
-                        "-",
-                        "-",
+                        "Aqua Jet",
+                        "Ancient Power",
+                        "Withdraw",
                         "-"
                     ]
                 }
@@ -1380,34 +1380,10 @@
                     ]
                 },
                 {
-                    "Name": "Blank",
-                    "Level": "",
-                    "Ability": "",
-                    "Item": "",
-                    "Moves": [
-                        " ",
-                        " ",
-                        " ",
-                        " "
-                    ]
-                },
-                {
-                    "Name": "Blank",
-                    "Level": "",
-                    "Ability": "",
-                    "Item": "",
-                    "Moves": [
-                        " ",
-                        " ",
-                        " ",
-                        " "
-                    ]
-                },
-                {
                     "Name": "Karrablast",
                     "Level": 23,
                     "Ability": "",
-                    "Item": "-",
+                    "Item": "-", 
                     "Moves": [
                         "-",
                         "-",
@@ -1443,7 +1419,7 @@
                         "Bug Bite",
                         "Leech Seed",
                         "Cross Poison",
-                        "Absorb"
+                        "Mega Drain"
                     ]
                 },
                 {
