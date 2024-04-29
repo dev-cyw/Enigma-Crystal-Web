@@ -3,6 +3,7 @@ html {
     color: #eeeeee;
     font-family: 'Lexend', Segoe UI;
     text-align: center;
+    image-rendering: pixelated;
 }
 
 ul {
@@ -78,5 +79,4 @@ tr:hover {
     color: #eeeeee;
     outline: none;
     border: 2px solid #43454b;
-    font-family: 'lexend';
 }

@@ -109,12 +109,13 @@ document.addEventListener("DOMContentLoaded", function() {
                 input = document.getElementById("searchInput");
                 filter = input.value.toUpperCase();
                 tr = tableBody.getElementsByTagName("tr");
-                
+            
                 for (i = 0; i < tr.length; i++) {
                     td = tr[i].getElementsByTagName("td")[1]; // Search by name (2nd column)
                     if (td) {
                         txtValue = td.textContent || td.innerText;
-                        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        // Adjusted search condition to match only the first letters
+                        if (txtValue.toUpperCase().startsWith(filter)) {
                             tr[i].style.display = "";
                         } else {
                             tr[i].style.display = "none";
@@ -122,8 +123,9 @@ document.addEventListener("DOMContentLoaded", function() {
                     }
                 }
             }
-
+            
             document.getElementById("searchInput").addEventListener("keyup", searchTable);
+            
 
         })
         .catch(error => {
