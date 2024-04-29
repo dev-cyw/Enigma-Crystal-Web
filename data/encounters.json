@@ -64,9 +64,29 @@
             "Area": "Heabutt",
             "Pokemon":[
                 {
-                    "Name": "Heracross",
+                    "Name": "Spearow",
+                    "Level": 5,
+                    "Rate": 20
+                },
+                {
+                    "Name": "Hoothoot",
+                    "Level": 6,
+                    "Rate": 10
+                },
+                {
+                    "Name": "Pineco",
                     "Level": 5,
                     "Rate": "5%"
+                },
+                {
+                    "Name": "Aipom",
+                    "Level": 5,
+                    "Rate": 5
+                },
+                {
+                    "Name": "Heracross",
+                    "Level": 5,
+                    "Rate": 4
                 }
             ]
         },
