@@ -1,7 +1,7 @@
 html {
     background-color: #18181b;
     color: #eeeeee;
-    font-family: 'Lexend', Segoe UI;
+    font-family: 'Lexend', Verdana;
     text-align: center;
 }
 
@@ -31,7 +31,7 @@ h1 {
 }
 
 .encounters {
-    width: 1260px;
+    width: 980px;
     display: inline-flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -77,4 +77,8 @@ h1 {
     font-weight: bold;
     margin-top: 20px;
     margin-bottom: 10px;
+}
+
+.hidden-text {
+    color: #18181b; /* Same as the background color */
 }

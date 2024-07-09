@@ -1,38 +1,18 @@
 {
     "Encounters":[
         {
-            "Area": "Headbutt",
-            "Pokemon":[
-                {
-                    "Name": "Spearow",
-                    "Level": 5,
-                    "Rate": 20
-                },
-                {
-                    "Name": "Hoothoot",
-                    "Level": 6,
-                    "Rate": 10
-                },
-                {
-                    "Name": "Pineco",
-                    "Level": 5,
-                    "Rate": "5%"
-                },
-                {
-                    "Name": "Aipom",
-                    "Level": 5,
-                    "Rate": 5
-                },
-                {
-                    "Name": "Heracross",
-                    "Level": 5,
-                    "Rate": 4
-                }
-            ]
-        },
-        {
             "Area": "Prof. Elms Lab",
             "Pokemon":[
+                {
+                    "Name": "Blank",
+                    "Level": "",
+                    "Rate": ""
+                },
+                {
+                    "Name": "Blank",
+                    "Level": "",
+                    "Rate": ""
+                },
                 {
                     "Name": "Chikorita",
                     "Level": 5,
@@ -54,49 +34,34 @@
             "Area": "Route 29",
             "Pokemon": [
                 {
-                    "Name": "Rattata",
+                    "Name": "Weedle",
                     "Level": 6,
-                    "Rate": 25
-                },
-                {
-                    "Name": "Starly",
-                    "Level": 6,
-                    "Rate": 20
-                },
-                {
-                    "Name": "Hoppip",
-                    "Level": 5,
-                    "Rate": 11
+                    "Rate": 30
                 },
                 {
                     "Name": "Caterpie",
                     "Level": 6,
-                    "Rate": 10
+                    "Rate": 30
                 },
                 {
-                    "Name": "Weedle",
+                    "Name": "Sunkern",
+                    "Level": 6,
+                    "Rate": 20
+                },
+                {
+                    "Name": "Rattata",
                     "Level": 6,
                     "Rate": 10
                 },
                 {
-                    "Name": "Sentret",
+                    "Name": "Shinx",
                     "Level": 6,
-                    "Rate": 10
-                },
-                {
-                    "Name": "Metapod",
-                    "Level": 7,
-                    "Rate": 5
-                },
-                {
-                    "Name": "Kakuna",
-                    "Level": 7,
                     "Rate": 5
                 },
                 {
                     "Name": "Pichu",
-                    "Level": 5,
-                    "Rate": 4
+                    "Level": 6,
+                    "Rate": 5
                 }
             ]
         },
@@ -105,8 +70,13 @@
             "Pokemon": [
                 {
                     "Name": "Roggenrola",
-                    "Level": 7,
-                    "Rate": 25
+                    "Level": 6,
+                    "Rate": 30
+                },
+                {
+                    "Name": "Starly",
+                    "Level": 6,
+                    "Rate": 30
                 },
                 {
                     "Name": "Paras",
@@ -114,34 +84,24 @@
                     "Rate": 20
                 },
                 {
-                    "Name": "Sandshrew",
-                    "Level": 5,
-                    "Rate": 15
-                },
-                {
-                    "Name": "Spearow",
+                    "Name": "Lillipup",
                     "Level": 6,
                     "Rate": 10
                 },
                 {
-                    "Name": "Pidgey",
+                    "Name": "Teddiursa",
                     "Level": 6,
-                    "Rate": 10
-                },
-                {
-                    "Name": "Sunkern",
-                    "Level": 7,
-                    "Rate": 10
-                },
-                {
-                    "Name": "Ledyba",
-                    "Level": 7,
                     "Rate": 5
                 },
                 {
-                    "Name": "Shinx",
-                    "Level": 8,
-                    "Rate": 5
+                    "Name": "Hoppip",
+                    "Level": 6,
+                    "Rate": 4
+                },
+                {
+                    "Name": "Phanpy",
+                    "Level": 6,
+                    "Rate": 1
                 }
             ]
         },
@@ -152,11 +112,6 @@
                     "Name": "Sewaddle",
                     "Level": 0,
                     "Rate": 25
-                },
-                {
-                    "Name": "Bidoof",
-                    "Level": 0,
-                    "Rate": 20
                 },
                 {
                     "Name": "Tympole",
@@ -209,11 +164,6 @@
                     "Rate": 11
                 },
                 {
-                    "Name": "Sewaddle",
-                    "Level": 6,
-                    "Rate": 10
-                },
-                {
                     "Name": "Hoothoot",
                     "Level": 6,
                     "Rate": 10
@@ -225,11 +175,6 @@
                 },
                 {
                     "Name": "Geodude",
-                    "Level": 7,
-                    "Rate": 5
-                },
-                {
-                    "Name": "Sentret",
                     "Level": 7,
                     "Rate": 5
                 },
@@ -255,17 +200,12 @@
                     "Rate": 20
                 },
                 {
-                    "Name": "Psyduck",
-                    "Level": 7,
-                    "Rate": 15
-                },
-                {
                     "Name": "Slugma",
                     "Level": 8,
                     "Rate": 10
                 },
                 {
-                    "Name": "Geodude",
+                    "Name": "Roggenrola",
                     "Level": 9,
                     "Rate": 10
                 },
@@ -315,17 +255,7 @@
                     "Rate": 15
                 },
                 {
-                    "Name": "Rattata",
-                    "Level": 0,
-                    "Rate": 10
-                },
-                {
                     "Name": "Surskit",
-                    "Level": 0,
-                    "Rate": 10
-                },
-                {
-                    "Name": "Ledyba",
                     "Level": 0,
                     "Rate": 10
                 },
@@ -348,11 +278,6 @@
                     "Name": "Lillipup",
                     "Level": 0,
                     "Rate": 25
-                },
-                {
-                    "Name": "Blitzle",
-                    "Level": 0,
-                    "Rate": 20
                 },
                 {
                     "Name": "Mareep",
@@ -400,17 +325,7 @@
                     "Rate": 20
                 },
                 {
-                    "Name": "Rattata",
-                    "Level": 0,
-                    "Rate": 15
-                },
-                {
                     "Name": "Poliwag",
-                    "Level": 0,
-                    "Rate": 10
-                },
-                {
-                    "Name": "Spinarak",
                     "Level": 0,
                     "Rate": 10
                 },

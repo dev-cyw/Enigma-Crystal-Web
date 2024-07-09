@@ -13,32 +13,35 @@ document.addEventListener('DOMContentLoaded', function() {
                 const encounterDiv = document.createElement('div');
                 encounterDiv.className = 'encounters';
 
-                const totalSlots = 9; // Maximum number of slots
+                const totalSlots = 7;
                 const emptySlots = totalSlots - encounter.Pokemon.length;
 
                 encounter.Pokemon.forEach(pokemon => {
                     const slotDiv = document.createElement('div');
                     slotDiv.className = 'slot';
-
+                
                     const img = document.createElement('img');
-                    img.src = `../images/pokemon/${pokemon.Name.toLowerCase()}.png`; // Assuming images are named after the Pokemon names in lowercase
-                    img.width = 80; // Set image width
-                    img.height = 80; // Set image height
-
-                    const lvl = document.createElement('p');
-                    lvl.innerText = `Lvl: ${pokemon.Level}`;
-
-                    const rate = document.createElement('p');
-                    if (isNaN(pokemon.Rate)) {  // Corrected the condition here
-                        rate.innerText = `${pokemon.Rate}`;
-                    } else {
-                        rate.innerText = `${pokemon.Rate}%`;
-                    }
-
+                    img.src = `../images/pokemon/${pokemon.Name.toLowerCase()}.png`;
+                    img.width = 80;
+                    img.height = 80;
+                
                     slotDiv.appendChild(img);
+                
+                    const lvl = document.createElement('p');
+                    const rate = document.createElement('p');
+                
+                    if (pokemon.Name.toLowerCase() === 'blank') {
+                        lvl.className = 'hidden-text';
+                        lvl.innerText = '-';
+                        rate.className = 'hidden-text';
+                        rate.innerText = '-';
+                    } else {
+                        lvl.innerText = `Lvl: ${pokemon.Level}`;
+                        rate.innerText = isNaN(pokemon.Rate) ? `${pokemon.Rate}` : `${pokemon.Rate}%`;
+                    }
+                
                     slotDiv.appendChild(lvl);
                     slotDiv.appendChild(rate);
-
                     encounterDiv.appendChild(slotDiv);
                 });
 
@@ -48,19 +51,19 @@ document.addEventListener('DOMContentLoaded', function() {
                     emptySlotDiv.className = 'slot';
 
                     const emptyImg = document.createElement('img');
-                    emptyImg.src = `../images/blank.png`; // Blank image path
-                    emptyImg.width = 80; // Set image width
-                    emptyImg.height = 80; // Set image height
+                    emptyImg.src = `../images/blank.png`;
+                    emptyImg.width = 80;
+                    emptyImg.height = 80;
 
                     emptySlotDiv.appendChild(emptyImg);
 
                     const emptyLvl = document.createElement('p');
                     emptyLvl.innerText = `-`;
-                    emptyLvl.style.color = '#18181b';  // Make text color same as background to make it invisible
+                    emptyLvl.style.color = '#18181b';
 
                     const emptyRate = document.createElement('p');
                     emptyRate.innerText = `-`;
-                    emptyRate.style.color = '#18181b';  // Make text color same as background to make it invisible
+                    emptyRate.style.color = '#18181b';
 
                     emptySlotDiv.appendChild(emptyLvl);
                     emptySlotDiv.appendChild(emptyRate);
