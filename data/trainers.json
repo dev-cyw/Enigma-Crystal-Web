@@ -240,18 +240,6 @@
                         "Wrap",
                         "-"
                     ]
-                },
-                {
-                    "Name": "Natu",
-                    "Level": 14,
-                    "Ability": "Synchronize",
-                    "Item": "-",
-                    "Moves": [
-                        "Peck",
-                        "Leer",
-                        "Stored Power",
-                        "-"
-                    ]
                 }
             ]
         },
